@@ -1,9 +1,5 @@
 # Core Dev List \(Draft\)
 
-
-
-&lt;!--td {border: 1px solid \#ccc;}br {mso-data-placement:same-cell;}--&gt;
-
 | Name / Github | Blog | Twitter |
 | :--- | :--- | :--- |
 | Vitalik Buterin | [@VitalikButerin](https://medium.com/@VitalikButerin) | [@VitalikButerin](https://twitter.com/VitalikButerin) |
