@@ -13,4 +13,5 @@
 * [Tacticals](tacticals/README.md)
   * [August 14](tacticals/august-17.md)
   * [Sep 6](tacticals/sep-6.md)
+  * [Sep 11](tacticals/sep-11.md)
 
