@@ -19,12 +19,12 @@
     <tr>
       <td style="text-align:left">Communications with the users</td>
       <td style="text-align:left">Communications</td>
-      <td style="text-align:left">Anna Rose</td>
+      <td style="text-align:left">Anna</td>
     </tr>
     <tr>
       <td style="text-align:left">Managing the product to fit users needs</td>
       <td style="text-align:left">Product Manager</td>
-      <td style="text-align:left">James Hancock</td>
+      <td style="text-align:left">James</td>
     </tr>
     <tr>
       <td style="text-align:left">Developing the product</td>
