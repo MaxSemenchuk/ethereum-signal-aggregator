@@ -1,6 +1,57 @@
-# Team
+# Team & Roles
 
-## Anna
+## Roles
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Role</th>
+      <th style="text-align:left">Assigned to</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Holding the org purpose, people and resource allocation</td>
+      <td style="text-align:left">Lead link</td>
+      <td style="text-align:left">?</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Communications with the users</td>
+      <td style="text-align:left">Communications</td>
+      <td style="text-align:left">Anna Rose</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Managing the product to fit users needs</td>
+      <td style="text-align:left">Product Manager</td>
+      <td style="text-align:left">James Hancock</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Developing the product</td>
+      <td style="text-align:left">Engineer</td>
+      <td style="text-align:left">Deam</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">We have enough funds for the operations</td>
+      <td style="text-align:left">Finances</td>
+      <td style="text-align:left">Max</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Meeting outcomes are captured and clear</p>
+        <p>Recognize when coordination is needed</p>
+      </td>
+      <td style="text-align:left">Secretary</td>
+      <td style="text-align:left">Max</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ensuring meetings have a clear process and it's and easy to participate</td>
+      <td
+      style="text-align:left">Facilitator</td>
+        <td style="text-align:left">Max</td>
+    </tr>
+  </tbody>
+</table>## Anna
 
 Builder/Entrepreneur based in Berlin, co-host of @ZeroKnowledgefm Podcast, co-founder of @Videopath & @Conference-hunt, prev @paritytech on special projects, \#blockchain \#podcast \#communication \#media \#video \#AR \#VR
 
