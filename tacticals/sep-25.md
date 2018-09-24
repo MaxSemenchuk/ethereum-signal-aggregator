@@ -29,5 +29,10 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Max</td>
+      <td style="text-align:left">Product docs?</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
