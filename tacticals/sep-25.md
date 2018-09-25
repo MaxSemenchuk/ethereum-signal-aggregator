@@ -13,7 +13,8 @@
   <tbody>
     <tr>
       <td style="text-align:left">Max</td>
-      <td style="text-align:left">Budget overview</td>
+      <td style="text-align:left"><a href="https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit#gid=0">Budget overview</a>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -31,7 +32,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Max</td>
-      <td style="text-align:left">Product docs?</td>
+      <td style="text-align:left">We need Product docs</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -57,6 +58,11 @@
     <tr>
       <td style="text-align:left">James</td>
       <td style="text-align:left">Name Change</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Deam</td>
+      <td style="text-align:left">Dev plan fro defining the payment</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
