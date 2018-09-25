@@ -54,5 +54,11 @@
       <td style="text-align:left">Promo website</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">James</td>
+      <td style="text-align:left">Name Change</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
+
