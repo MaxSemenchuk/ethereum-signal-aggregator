@@ -34,5 +34,25 @@
       <td style="text-align:left">Product docs?</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">James</td>
+      <td style="text-align:left">Campaign address</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">James</td>
+      <td style="text-align:left">keybase</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">James</td>
+      <td style="text-align:left">Logo</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Max</td>
+      <td style="text-align:left">Promo website</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
