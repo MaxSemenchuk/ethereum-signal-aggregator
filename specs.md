@@ -1,4 +1,4 @@
-# Design
+# Specifications
 
 ## User Stories
 
