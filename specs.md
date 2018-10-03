@@ -23,7 +23,7 @@
         <p>See the community feedback to EIPs by</p>
         <ul>
           <li>Seeing the list of proposals</li>
-          <li>Seeing the individual support/reject or comment with proof (if needed)</li>
+          <li>See individual stances</li>
           <li>Seeing overall statistics</li>
         </ul>
       </td>
@@ -31,25 +31,42 @@
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Editor</td>
+      <td style="text-align:left">Users</td>
       <td style="text-align:left">
+        <p>P1</p>
         <ul>
-          <li>Add/Import proposals</li>
-          <li>Add feedback</li>
+          <li>See the List of Proposals</li>
+          <li>Filter Proposals by
+            <ul>
+              <li>Status</li>
+              <li>Category</li>
+            </ul>
+          </li>
         </ul>
       </td>
-      <td style="text-align:left">Inform the developers</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Editor</td>
+      <td style="text-align:left">
+        <p>In Github</p>
+        <ul>
+          <li>Add/Update List of EIPs</li>
+          <li>Update Stances for influencers and necessary Substantiation</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Inform Decision Makers</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">Influencer</td>
       <td style="text-align:left">
         <ul>
-          <li>Get Authenticated</li>
-          <li>Add my support/reject or comment</li>
+          <li>Check if Primary Sources are currently public for their stances.</li>
         </ul>
       </td>
-      <td style="text-align:left">Inform the developers</td>
+      <td style="text-align:left">Inform the Community</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
