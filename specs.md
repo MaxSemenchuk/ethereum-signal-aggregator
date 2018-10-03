@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Stakeholder</td>
+      <td style="text-align:left">Users</td>
       <td style="text-align:left">
         <p>P1</p>
         <ul>
@@ -61,22 +61,19 @@
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">Influencer</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Check if Primary Sources are currently public for their stances.</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Automatically Verify if Primary Sources are currently public for their
+        stances, and do not display those that are not.</td>
       <td style="text-align:left">Inform the Community</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Stakeholder</td>
+      <td style="text-align:left">Decision Maker</td>
       <td style="text-align:left">Participate in open coin votings</td>
       <td style="text-align:left">To influence the core devs decision</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Stakeholder</td>
+      <td style="text-align:left">Decision Maker</td>
       <td style="text-align:left">See results of past coin votings</td>
       <td style="text-align:left">To see the feedback from the community</td>
     </tr>
