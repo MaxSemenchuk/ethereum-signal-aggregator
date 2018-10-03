@@ -51,6 +51,18 @@
       </td>
       <td style="text-align:left">Inform the developers</td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Stakeholder</td>
+      <td style="text-align:left">Participate in open coin votings</td>
+      <td style="text-align:left">To influence the core devs decision</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Stakeholder</td>
+      <td style="text-align:left">See results of past coin votings</td>
+      <td style="text-align:left">To see the feedback from the community</td>
+    </tr>
   </tbody>
 </table>## Design
 
