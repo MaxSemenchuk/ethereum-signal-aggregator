@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Users</td>
+      <td style="text-align:left">Stakeholder</td>
       <td style="text-align:left">
         <p>P1</p>
         <ul>
