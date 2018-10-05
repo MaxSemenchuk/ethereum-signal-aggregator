@@ -2,11 +2,15 @@
 
 ## User Stories
 
+### Users types:
+
+* Decision maker \(like Coredevs, dapp devs, miners, exchanges – network stakeholder\)
+* Influencer
+* Editor
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Prio</b>
-      </th>
       <th style="text-align:left"><b>As</b>
       </th>
       <th style="text-align:left"><b>I’d like to</b>
@@ -17,87 +21,43 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left">Developer (core?)</td>
+      <td style="text-align:left">DM</td>
       <td style="text-align:left">
-        <p>P1</p>
-        <p>See the community feedback to EIPs by</p>
+        <p>See the community feedback to Props by</p>
         <ul>
-          <li>Seeing the list of proposals</li>
+          <li>Seeing the list of proposals (EIPs parsed from github)</li>
+          <li>Filter Props by Status and Category</li>
           <li>See individual stances</li>
           <li>Seeing overall statistics</li>
         </ul>
-        <p>P2
-          <br />
-        </p>
-        <ul>
-          <li>Enter a twitter handle and see its public followers stances on EIPs -
-            Hudson</li>
-          <li>Enter a twitter handle and see public stances on any EIP - Hudson</li>
-        </ul>
-        <p></p>
       </td>
-      <td style="text-align:left">Decide on developing the request</td>
+      <td style="text-align:left">Make decisions on forking</td>
     </tr>
     <tr>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left">Users</td>
-      <td style="text-align:left">
-        <p>P1</p>
-        <p></p>
-        <ul>
-          <li>See the List of Proposals</li>
-          <li>Filter Proposals by
-            <ul>
-              <li>Status</li>
-              <li>Category</li>
-            </ul>
-          </li>
-          <li>Get an overall view of the current support for an EIP</li>
-          <li>See detailed information</li>
-        </ul>
-        <p>P2</p>
-        <p>Allow users to follow a list of EIPs they are currently interested in
-          without needing an account.</p>
-        <ul>
-          <li>Generate a string of the currently selected EIPs</li>
-          <li>Allow for the string to be entered in as URL (can be favorited in the
-            browser), or in a space on the website.</li>
-        </ul>
-        <p></p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2</td>
       <td style="text-align:left">Editor</td>
-      <td style="text-align:left">
-        <p>In Github</p>
-        <ul>
-          <li>Add/Update List of EIPs</li>
-          <li>Update Stances for influencers and necessary Substantiation</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Edit/hide proposals</td>
+      <td style="text-align:left">Maintain the quality of the info</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DM</td>
+      <td style="text-align:left">Participate in open coin votings to Props</td>
+      <td style="text-align:left">Inform the community</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DM</td>
+      <td style="text-align:left">Participate in open gas votings to Props</td>
+      <td style="text-align:left">Inform the community</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Editor</td>
+      <td style="text-align:left">Update Stances for influencers and necessary Substantiation (any link
+        like a tweet or reddit post)</td>
       <td style="text-align:left">Inform Decision Makers</td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
       <td style="text-align:left">Influencer</td>
-      <td style="text-align:left">Automatically Verify if Primary Sources are currently public for their
-        stances, and do not display those that are not.</td>
-      <td style="text-align:left">Inform the Community</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Decision Maker</td>
-      <td style="text-align:left">Participate in open coin votings</td>
-      <td style="text-align:left">To influence the core devs decision</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Decision Maker</td>
-      <td style="text-align:left">See results of past coin votings</td>
-      <td style="text-align:left">To see the feedback from the community</td>
+      <td style="text-align:left">Hide own specific posts</td>
+      <td style="text-align:left">To updated their stances</td>
     </tr>
   </tbody>
 </table>## Design
