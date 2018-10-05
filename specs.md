@@ -20,12 +20,22 @@
       <td style="text-align:left">1</td>
       <td style="text-align:left">Developer (core?)</td>
       <td style="text-align:left">
+        <p>P1</p>
         <p>See the community feedback to EIPs by</p>
         <ul>
           <li>Seeing the list of proposals</li>
           <li>See individual stances</li>
           <li>Seeing overall statistics</li>
         </ul>
+        <p>P2
+          <br />
+        </p>
+        <ul>
+          <li>Enter a twitter handle and see its public followers stances on EIPs -
+            Hudson</li>
+          <li>Enter a twitter handle and see public stances on any EIP - Hudson</li>
+        </ul>
+        <p></p>
       </td>
       <td style="text-align:left">Decide on developing the request</td>
     </tr>
@@ -34,6 +44,7 @@
       <td style="text-align:left">Users</td>
       <td style="text-align:left">
         <p>P1</p>
+        <p></p>
         <ul>
           <li>See the List of Proposals</li>
           <li>Filter Proposals by
@@ -42,7 +53,18 @@
               <li>Category</li>
             </ul>
           </li>
+          <li>Get an overall view of the current support for an EIP</li>
+          <li>See detailed information</li>
         </ul>
+        <p>P2</p>
+        <p>Allow users to follow a list of EIPs they are currently interested in
+          without needing an account.</p>
+        <ul>
+          <li>Generate a string of the currently selected EIPs</li>
+          <li>Allow for the string to be entered in as URL (can be favorited in the
+            browser), or in a space on the website.</li>
+        </ul>
+        <p></p>
       </td>
       <td style="text-align:left"></td>
     </tr>
