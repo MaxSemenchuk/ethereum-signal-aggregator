@@ -18,4 +18,5 @@
   * [Sep 28](tacticals/sep-28.md)
   * [Oct 2](tacticals/oct-2.md)
   * [Oct 5](tacticals/oct-5.md)
+  * [Oct 9](tacticals/oct-9.md)
 
