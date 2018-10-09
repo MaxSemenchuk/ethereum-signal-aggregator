@@ -57,10 +57,15 @@
     <tr>
       <td style="text-align:left">Influencer</td>
       <td style="text-align:left">Hide own specific posts</td>
-      <td style="text-align:left">To updated their stances</td>
+      <td style="text-align:left">Updated their stances</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DM</td>
+      <td style="text-align:left">Initiate the voting</td>
+      <td style="text-align:left">Collect feedback</td>
     </tr>
   </tbody>
 </table>## Design
 
-{% embed data="{\"url\":\"https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals\",\"type\":\"rich\",\"title\":\"Figma\",\"description\":\"Created with Figma\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.figma.com/app/icon/1/icon-192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/thumbnail?ver=mSVglBCIIhOMSjxaTD44Tv\",\"width\":800,\"height\":454,\"aspectRatio\":0.5675},\"embed\":{\"type\":\"reader\",\"url\":\"https://www.figma.com/embed?embed\_host=oembed&url=https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.figma.com/embed?embed\_host=oembed&amp;url=https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals" %}
 
