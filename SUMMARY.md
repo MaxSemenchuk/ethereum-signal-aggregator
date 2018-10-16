@@ -8,7 +8,8 @@
   * [SoMe](research/some.md)
   * [Core Dev List \(Draft\)](research/core-dev-list-draft.md)
   * [Eth Foundations](research/eth-foundations.md)
-* [Specifications](specs.md)
+* [Specifications](specs/README.md)
+  * [Roadmap](specs/roadmap.md)
 * [Team & Roles](team.md)
 * [Tacticals](tacticals/README.md)
   * [August 14](tacticals/august-17.md)
@@ -19,4 +20,5 @@
   * [Oct 2](tacticals/oct-2.md)
   * [Oct 5](tacticals/oct-5.md)
   * [Oct 9](tacticals/oct-9.md)
+  * [Oct 16](tacticals/oct-16.md)
 
