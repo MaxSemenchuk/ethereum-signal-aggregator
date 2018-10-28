@@ -21,4 +21,5 @@
   * [Oct 5](tacticals/oct-5.md)
   * [Oct 9](tacticals/oct-9.md)
   * [Oct 16](tacticals/oct-16.md)
+  * [Oct 28](tacticals/oct-28.md)
 
