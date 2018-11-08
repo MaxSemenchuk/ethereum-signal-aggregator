@@ -59,37 +59,6 @@ Goal: give influencers possibility to vote with their stances
       </td>
       <td style="text-align:left">Make decisions on forking</td>
     </tr>
-    <tr>
-      <td style="text-align:left">Editor</td>
-      <td style="text-align:left">Edit/hide proposals</td>
-      <td style="text-align:left">Maintain the quality of the info</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">DM</td>
-      <td style="text-align:left">Participate in open coin votings to Props</td>
-      <td style="text-align:left">Inform the community</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">DM</td>
-      <td style="text-align:left">Participate in open gas votings to Props</td>
-      <td style="text-align:left">Inform the community</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Editor</td>
-      <td style="text-align:left">Update Stances for influencers and necessary Substantiation (any link
-        like a tweet or reddit post)</td>
-      <td style="text-align:left">Inform Decision Makers</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Influencer</td>
-      <td style="text-align:left">Hide own specific posts</td>
-      <td style="text-align:left">Updated their stances</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">DM</td>
-      <td style="text-align:left">Initiate the voting</td>
-      <td style="text-align:left">Collect feedback</td>
-    </tr>
   </tbody>
 </table>## Sprint 3
 
