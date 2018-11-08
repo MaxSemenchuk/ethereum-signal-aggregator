@@ -10,6 +10,7 @@
   * [Eth Foundations](research/eth-foundations.md)
 * [Specifications](specs/README.md)
   * [Roadmap](specs/roadmap.md)
+  * [Coin vote mechanics](specs/coin-vote-mechanics.md)
 * [Team & Roles](team.md)
 * [Tacticals](tacticals/README.md)
   * [August 14](tacticals/august-17.md)
