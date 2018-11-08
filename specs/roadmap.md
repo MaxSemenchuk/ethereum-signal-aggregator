@@ -26,6 +26,15 @@ Goal: create website that will show list of EIPs from Github with realtime updat
 
 ## Sprint 2
 
+Goal: give voters the possibility to vote with their balances on their ethereum wallets
+
+* Create interface for voters where they can put their eth address and vote for or against the EIP \([voting mechanics](https://ethsignals.gitbook.io/wiki/~/edit/drafts/-LQnnldqUudx1pc6TfBF/specs/coin-vote-mechanics)\)
+* Create worker that will get information about balance on the wallet through ethereum full node 
+* Show statistics about voting on the website
+* Publish on beta.tennagraph.com
+
+## Sprint 3
+
 Goal: give influencers possibility to vote with their stances
 
 * Create interface that will allow community to vote by adding link to twitter / medium / etc post \(public no sign in\)
@@ -33,13 +42,7 @@ Goal: give influencers possibility to vote with their stances
 * Create worker that will dump database with influencer stances to some public github repository
 * Admin portal for moderating community requests.
 
-## Sprint 3
-
-Goal: give voters the possibility to vote with their balances on their ethereum wallets
-
-* Create interface for voters where they can put their eth address and vote for or against the EIP \(use: [http://carbonvote.com/](http://carbonvote.com/)\)
-* Create worker that will get information about balance on the wallet through ethereum full node 
-* Show statistics about voting on the website
+## 
 
 ## Sprint 4
 
