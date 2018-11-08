@@ -42,8 +42,6 @@ Goal: give influencers possibility to vote with their stances
 * Create worker that will dump database with influencer stances to some public github repository
 * Admin portal for moderating community requests.
 
-## 
-
 ## Sprint 4
 
 Goal: connect stock.it gas voting and go to production
