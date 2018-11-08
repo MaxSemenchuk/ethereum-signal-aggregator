@@ -9,7 +9,6 @@
   * [Core Dev List \(Draft\)](research/core-dev-list-draft.md)
   * [Eth Foundations](research/eth-foundations.md)
 * [Specifications](specs/README.md)
-  * [Roadmap](specs/roadmap.md)
   * [Coin vote mechanics](specs/coin-vote-mechanics.md)
 * [Team & Roles](team.md)
 * [Tacticals](tacticals/README.md)
