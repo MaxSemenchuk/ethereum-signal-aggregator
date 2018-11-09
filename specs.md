@@ -10,6 +10,8 @@
 
 Each sprint is 2 weeks. Development starts: Nov 12, 2018 \(week 46\)
 
+Design: [https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals?node-id=330%3A175](https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/EthSignals?node-id=330%3A175)
+
 ## Sprint 0
 
 * Initial design \(v1\)
@@ -83,8 +85,8 @@ Influencer Module
         <ul>
           <li>View the overall Stances</li>
           <li>See the influencers organized by stance or by rank</li>
-          <li>See stances of influencers not on the list in some order (will need to
-            be revisited as stances are published)</li>
+          <li>See stances of influencers not on the list (will need to be revisited
+            how to display rationally as stances are published)</li>
           <li>See how long since that stance has been posted.</li>
         </ul>
       </td>
