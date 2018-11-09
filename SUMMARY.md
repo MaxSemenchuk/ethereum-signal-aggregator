@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ethereum Signal Aggregator](README.md)
+* [TennaGraph – Ethereum Signal Aggregator](README.md)
 * [Roadmap & Specifications](specs/README.md)
   * [TennaGraph 0.1](specs/tennagraph-0.1.md)
   * [TennaGraph 0.3](specs/tennagraph-0.3.md)

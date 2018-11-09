@@ -1,4 +1,4 @@
-# Ethereum Signal Aggregator
+# TennaGraph – Ethereum Signal Aggregator
 
 ## **Vision**
 
