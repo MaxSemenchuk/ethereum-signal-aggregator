@@ -4,47 +4,16 @@
 
 Development approach: agile with 2 week sprints. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Weeks</th>
-      <th style="text-align:left">Scope</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Initial design (v1)</li>
-          <li>Research</li>
-          <li>Github auto-deploy of the EIP list</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">TennaGraph 0.1</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">46-47</td>
-      <td style="text-align:left"><a href="https://github.com/TennaGraph/TennaGraph/milestone/1">TennaGraph 0.2</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">48-49</td>
-      <td style="text-align:left">TennaGraph 0.3</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">50-51</td>
-      <td style="text-align:left">TennaGraph 0.4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">52-1</td>
-      <td style="text-align:left">TennaGraph 1.0 (buffer, polishing, refactoring)</td>
-    </tr>
-  </tbody>
-</table>## Design
+| Weeks | Scope |
+| :--- | :--- |
+| - | Initial design \(v1\), Research, Github auto-deploy of the EIP list |
+| - | [TennaGraph 0.1](https://ethsignals.gitbook.io/wiki/specs/tennagraph-0.1) |
+| 46-47 | [TennaGraph 0.2](https://github.com/TennaGraph/TennaGraph/milestone/1) |
+| 48-49 | [TennaGraph 0.3](https://ethsignals.gitbook.io/wiki/specs/tennagraph-0.3) |
+| 50-51 | [TennaGraph 0.4](https://ethsignals.gitbook.io/wiki/specs/tennagraph-0.4) |
+| 52-1 | TennaGraph 1.0 \(buffer, polishing, refactoring\) |
+
+## Design
 
 Material, adaptive
 
