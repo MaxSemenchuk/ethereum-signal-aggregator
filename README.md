@@ -6,6 +6,15 @@ We need a website in the community that we can trust - a fairly high source of t
 
 The end goal is a community-curated hub that clears out some of the noise around key developments and decisions facing Ethereum
 
+### Core Guiding Principals
+
+We will
+
+* Collate data with as little as interpretation as possible
+* Integrate with partners wherever possible to show off the communities work
+* Encourage meaningful participation from the community
+* Provide historical data transparency
+
 ### Success criteria
 
 * Github statistics
