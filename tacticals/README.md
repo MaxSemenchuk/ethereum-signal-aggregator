@@ -19,8 +19,7 @@
     <tr>
       <td style="text-align:left">Communications with the users</td>
       <td style="text-align:left">Communications</td>
-      <td style="text-align:left"><em>Anna</em> 
-      </td>
+      <td style="text-align:left">James</td>
     </tr>
     <tr>
       <td style="text-align:left">Managing the product to fit users needs</td>
@@ -30,12 +29,12 @@
     <tr>
       <td style="text-align:left">Developing the product</td>
       <td style="text-align:left">Engineer</td>
-      <td style="text-align:left">Kirill</td>
+      <td style="text-align:left">Bohdan</td>
     </tr>
     <tr>
       <td style="text-align:left">We have enough funds for the operations</td>
       <td style="text-align:left">Finances</td>
-      <td style="text-align:left">Max</td>
+      <td style="text-align:left">James</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -50,6 +49,11 @@
       <td
       style="text-align:left">Facilitator</td>
         <td style="text-align:left">Max</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Product is nice and usable</td>
+      <td style="text-align:left">Design</td>
+      <td style="text-align:left">Max</td>
     </tr>
   </tbody>
 </table>**Budget**: [https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing)
@@ -74,11 +78,11 @@ Entrepreneur, Product Manager, UX Designer. Partner at 4IRE labs, co-organizer d
 
 **Commitment**: 5-10 hrs / week **Socials**: [https://twitter.com/maxsemenchuk](https://twitter.com/maxsemenchuk)
 
-### Deam
+### Bohdan
 
-Full Stack Developer, UI/UX Designer. Previously at a Danish startup, Peergrade. Now at Giveth and also doing Aragon Planning App.
+Full Stack Web \(python, vue.js, nuxt\), Blockchain \(ethereum, solidity\) & iOS Engineer. Developed [tokenization platform iconx](https://crowdfunding3.com/ico-investor-panel).
 
-**Commitment**: 20hrs / week **Socials**: [https://twitter.com/deamlabs](https://twitter.com/deamlabs)
+**Commitment**: 40hrs / week **Socials**: [https://www.linkedin.com/in/bohdan-malkevych-19357bb1/](https://www.linkedin.com/in/bohdan-malkevych-19357bb1/)
 
 ### Griff
 
