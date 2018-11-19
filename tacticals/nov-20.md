@@ -1,4 +1,6 @@
 # Nov 20
 
-Max – budgetting problem
+Max – budgeting problem
+
+Bohdan – hosting
 
