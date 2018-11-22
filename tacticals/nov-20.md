@@ -1,6 +1,10 @@
 # Nov 20
 
-Max – budgeting problem
+James – Grant updates. Almost done, needs bio.
 
-Bohdan – hosting
+James – Slock.it. We come to Slockit and ask for help.
+
+Max – budgeting problem.
+
+Bohdan – hosting. AWS or Digital Ocean, Bohdan will send the plan for DO. James will register email for the account.
 
