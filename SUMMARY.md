@@ -7,6 +7,7 @@
   * [TennaGraph 0.1](specs/tennagraph-0.1.md)
   * [TennaGraph 0.3](specs/tennagraph-0.3.md)
   * [TennaGraph 0.4](specs/tennagraph-0.4.md)
+  * [Further Development Ideas](specs/further-development-ideas.md)
 * [Research](research/README.md)
   * [Hypothesis 2: TA = Foundations in Ethereum](research/problem-solution-fit.md)
   * [SoMe](research/some.md)
