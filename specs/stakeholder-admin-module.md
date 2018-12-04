@@ -1,6 +1,6 @@
 # Stakeholder Admin Module
 
- The goal of the stakeholder admin module is as users submit different substantiations we keep track of all of the "official" social accounts of those stakeholders. These could be accounts surrounding any identity whether it be for a developer, Dapp, an exchange, etc. This data is one of the portions that will be shared publicly as part of our Historic Data Transparency.
+The goal of the stakeholder admin module is as users submit different substantiations we keep track of all of the "official" social accounts of those stakeholders. These could be accounts surrounding any identity whether it be for a developer, Dapp, an exchange, etc. This data is one of the portions that will be shared publicly as part of our Historic Data Transparency.
 
 This potentially could be a "Stakeholder" object that includes and inline "accounts" class. This could be managed in the Django admin pretty easily.
 
