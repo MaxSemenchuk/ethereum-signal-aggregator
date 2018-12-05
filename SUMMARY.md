@@ -2,6 +2,7 @@
 
 * [TennaGraph – Ethereum Signal Aggregator](README.md)
 * [Roadmap & Specifications](specs/README.md)
+  * [Filter/Sorting Specifications](specs/filter-specifications.md)
   * [Stakeholder Admin Module](specs/stakeholder-admin-module.md)
   * [Voting](specs/voting.md)
   * [TennaGraph 0.1](specs/tennagraph-0.1.md)
