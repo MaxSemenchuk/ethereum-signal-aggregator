@@ -10,7 +10,10 @@
 * Fishbowl discussion for the rest of the time
 * Wrap up
 
-20 mins for presentation, then each 15 mins. Assign some note taker
+20 mins for presentation, then each 15 mins. Assign some note taker  
+  
+Thank you max for Taking Notes:  
+[https://hackmd.io/ryrqmlTdRiCwO4QoLowueQ](https://hackmd.io/ryrqmlTdRiCwO4QoLowueQ) 
 
 **James – Proportion idea.** Switch to USD, difference taken out of aragon bonus
 
