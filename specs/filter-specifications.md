@@ -6,7 +6,7 @@ description: Filtering Specification.
 
 Milestone [1d](https://github.com/MadeofTin/nest/blob/master/grants/tennagraph/roadmap.md%20)
 
-### User Storys
+### User Stories
 
 A Decision Maker wants to filter the EIPs by Status or Tags in order to investigate the communities consensus on a subset of EIPs they are interested.  
   
