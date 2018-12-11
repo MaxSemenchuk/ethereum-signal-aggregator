@@ -33,4 +33,5 @@
   * [Nov 20](tacticals/nov-20.md)
   * [Nov 26 \(Retro\)](tacticals/nov-26-retro.md)
   * [Dec 4](tacticals/dec-4.md)
+  * [Dec 11 \(Retro\)](tacticals/dec-11-retro.md)
 
