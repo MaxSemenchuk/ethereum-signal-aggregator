@@ -8,12 +8,12 @@ The end goal is a community-curated hub that clears out some of the noise around
 
 ### Core Guiding Principals
 
-We will
+Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
 
-* Collate data with as little as interpretation as possible
-* Integrate with partners wherever possible to show off the communities work
-* Encourage meaningful participation from the community
-* Provide historical data transparency
+* Direct Representation: Little to no interpretation of data.
+* Integration over Recreation: Work with partners from the community where technologies already exist.
+* Community: Encourage meaningful participation from the community to update and govern the website.
+* Historical Data Transparency: Leave a record of what happened to help researchers and historians.
 
 ### Success criteria
 

@@ -18,7 +18,23 @@ A Decision Maker wants to navigate to a specific EIP they already know of in ord
 * Filter by Status
 * Filter by Category
 * Search with text matching any of the fields
+
   * EIP, Title, Status, Category, Created
+
+  
+  Searching overrides Filtering
+
+* If a filter is set and a user types in the search bar, it should show **all** **matches regardless of what filter is selected  Defaults These filters will be selected by default Status** ☑ Draft ☑ Last Call ☑ Accepted ☐ Final ☐ Deferred
+
+  
+  
+  
+
+
+* **Draft** - an EIP that is open for consideration.
+* **Accepted** - an EIP that is planned for immediate adoption, i.e. expected to be included in the next hard fork \(for Core/Consensus layer EIPs\).
+* **Final** - an EIP that has been adopted in a previous hard fork \(for Core/Consensus layer EIPs\).
+* **Deferred** an EIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent hard fork.
 
 ### Challenges
 
