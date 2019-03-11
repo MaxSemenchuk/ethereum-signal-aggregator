@@ -13,19 +13,19 @@
       <td style="text-align:left">
         <p><b>Anna:</b> argument against hive.one, for the shipped product. Some groups
           are angry about being ranked, want an opt-out. Twitter already does it,
-          many users play the game. Our project purpose was never to define who's
-          important. We're experimenting with the system. We need to bring core devs
-          as advisors, if we're not working with them – we won't accomplish much.
-          <br
-          />
+          many users play the game. Our project purpose was never to define who&apos;s
+          important. We&apos;re experimenting with the system. We need to bring core
+          devs as advisors, if we&apos;re not working with them &#x2013;&#xA0;we
+          won&apos;t accomplish much.
+          <br />
         </p>
-        <p><b>James:</b> we're going to stick to primary sources only, we won't link
-          to else. The ranking list won't be the first view of the stances. Ranking
-          is not important, but understanding the very top thinks in 1 way, and the
-          bottom in another provides some info. If hive.one decides to exclude people
-          it would be the same in our app, if smbd decides to go private – we respect
-          that as well. We'll be looking for other alternatives as well. No our opt-out
-          for now, as we have no control over that.
+        <p><b>James:</b> we&apos;re going to stick to primary sources only, we won&apos;t
+          link to else. The ranking list won&apos;t be the first view of the stances.
+          Ranking is not important, but understanding the very top thinks in 1 way,
+          and the bottom in another provides some info. If hive.one decides to exclude
+          people it would be the same in our app, if smbd decides to go private &#x2013;&#xA0;we
+          respect that as well. We&apos;ll be looking for other alternatives as well.
+          No our opt-out for now, as we have no control over that.
           <br />
         </p>
         <p><b>Deam:</b> same opinion

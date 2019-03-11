@@ -37,7 +37,7 @@
     <tr>
       <td style="text-align:left">James</td>
       <td style="text-align:left">keybase</td>
-      <td style="text-align:left">There's a keybase chat for aragon</td>
+      <td style="text-align:left">There&apos;s a keybase chat for aragon</td>
     </tr>
     <tr>
       <td style="text-align:left">James</td>
@@ -70,5 +70,5 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../.gitbook/assets/image.png)
+</table>![](../.gitbook/assets/image%20%285%29.png)
 

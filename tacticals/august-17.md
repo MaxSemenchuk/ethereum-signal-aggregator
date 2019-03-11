@@ -32,7 +32,7 @@
       <td style="text-align:left">Max</td>
       <td style="text-align:left">What do the core devs want?</td>
       <td style="text-align:left">
-        <p>Anna: we'll see in the interview</p>
+        <p>Anna: we&apos;ll see in the interview</p>
         <p>James: everybody sees some value, maybe miners voice matter</p>
       </td>
     </tr>
@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Deam</td>
-      <td style="text-align:left">What's "about" tab is about</td>
+      <td style="text-align:left">What&apos;s &quot;about&quot; tab is about</td>
       <td style="text-align:left">
         <p>Anna: We can take some info from Phil presentation</p>
         <p>James: we can hide it for now or put description from aragon grant</p>

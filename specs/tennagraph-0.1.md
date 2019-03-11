@@ -14,7 +14,7 @@ EIP Navigation
     <tr>
       <th style="text-align:left"><b>s</b>
       </th>
-      <th style="text-align:left"><b>I’d like to</b>
+      <th style="text-align:left"><b>I&#x2019;d like to</b>
       </th>
       <th style="text-align:left"><b>In order to</b>
       </th>

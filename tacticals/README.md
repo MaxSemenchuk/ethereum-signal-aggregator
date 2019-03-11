@@ -45,7 +45,7 @@
       <td style="text-align:left">Max</td>
     </tr>
     <tr>
-      <td style="text-align:left">Ensuring meetings have a clear process and it's and easy to participate</td>
+      <td style="text-align:left">Ensuring meetings have a clear process and it&apos;s and easy to participate</td>
       <td
       style="text-align:left">Facilitator</td>
         <td style="text-align:left">Max</td>
