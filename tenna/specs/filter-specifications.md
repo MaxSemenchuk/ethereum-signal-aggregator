@@ -45,7 +45,7 @@ We use a bot to pull the EIPs from the EIP repository. This is problematic for s
 Add in the UI the ability for users to suggest when an EIP is not correctly formatted, or Updates should be made. These edits would also go through a moderation similar to the influencer statements.  
 
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Any edits done through this process would override any edits the bot makes. The logic would be as follows.  
   
@@ -54,7 +54,7 @@ Any edits done through this process would override any edits the bot makes. The 
  \* It would not delete the underling data \(The bot alone maintains the base data\)  
  \* If we deleted the override it would again show the underlying bot maintained data. 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### Conclusion
 
@@ -65,11 +65,11 @@ The bot will continue to update the site as new EIPs are created and edited. In 
 
 coin.dance has a similar feature throughout their site. The workflow is as follows
 
-![Icon for &quot;Flag for Review&quot;](../.gitbook/assets/image%20%287%29.png)
+![Icon for &quot;Flag for Review&quot;](../../.gitbook/assets/image%20%287%29.png)
 
-![Hover over and see help text](../.gitbook/assets/image%20%284%29.png)
+![Hover over and see help text](../../.gitbook/assets/image%20%284%29.png)
 
-![User has the option to Change and submit, or Flag for review by an admin.](../.gitbook/assets/image.png)
+![User has the option to Change and submit, or Flag for review by an admin.](../../.gitbook/assets/image.png)
 
   
 When submitted there is a confirmation message that it has been sent to the admin for review.

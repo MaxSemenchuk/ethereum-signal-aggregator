@@ -1,67 +1,88 @@
-# TennaGraph – Ethereum Signal Aggregator
+# Signaling Group / Strategy
 
-## **Vision**
+Purpose: improve signaling in the networks with software
 
-We need a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. The main point is to get a website that curates signals of high source of truth which can be used to get an overview of the overall community and its health. List of signals that are helpful and will help to pinpoint what the state of the community really is.
+## Strategy
 
-The end goal is a community-curated hub that clears out some of the noise around key developments and decisions facing Ethereum
+### Research the problem/solutions hypothesis
 
-### Core Guiding Principals
+* \(owner, frequency, existent solutions, fit\)
+* Interview Duncan Jameson?
+* Ethreum cat herders
+* Check out the other networks
 
-Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
+### Maintain the org
 
-* Direct Representation: Little to no interpretation of data.
-* Integration over Recreation: Work with partners from the community where technologies already exist.
-* Community: Encourage meaningful participation from the community to update and govern the website.
-* Historical Data Transparency: Leave a record of what happened to help researchers and historians.
+* Do regular calls / notes
+* Process the mentions – data processor
+* facilitate development – PM
+* Fin & strategy reporting / transparency
 
-### Success criteria
+## Stakeholders \(/Ethereum - 1st\)
 
-* Github statistics
-* Ethereum Network statistics
-* Easy to find opinions from decisions makers on specific issue / proposals
-* Stats / info on Dapps
-* Info on Ethereum projects
-* Place to view / test the proposals \(EIPs\)
-* People trust the resource
-* A place where people can gauge what is going on in the community
+1. Foundations
+2. Core devs
+3. Dapp devs
+4. Miners
+5. Users
+6. Nodes
+7. Exchanges
+8. Researchers
 
-### Stakeholders:
+### Foundations
 
-* Core devs
-* Dapp devs
-* Miners
-* Users
-* Nodes
-* Exchanges
-* Researchers
+* EF
+* Parity
+* Status
+* Gnosis
+* Giveth
+* Aragon
 
-### Tasks:
+### Core devs
 
-* Place to view / test the proposals \(EIPs\)
-  * Switch to proof of stake
-  * Lowering mining rewards in next hard fork
-  * EIP-999, recovery of funds
-  * ...
-* Specific info on Ethereum projects
-* What ppls opinions are about specific issues
+| Vitalik Buterin |
+| :--- |
+| Vlad Zamfir |
+| Afri |
+| Cdetrio |
+| Jutta |
+| Greg |
+| Ligi |
+| Lane Rettig |
+| Nick Johnson |
+| Martin Holst Swende |
+| Daniel A Nagy |
+| Daniel Ellison |
+| Fredrick Harrysson |
+| Pawel Bylica |
+| M Kalinin |
+| Ben Edginton |
+| [Jeffrey Wilcke](https://github.com/obscuren) |
+| [Péter Szilágyi](https://github.com/karalabe) |
+| [Christoph Jentzsch](https://github.com/CJentzsch) |
+| [Felix Lange](https://github.com/fjl) |
+| [Taylor Gerring](https://github.com/tgerring) |
+| [Viktor Trón](https://github.com/zelig) |
+| [Felföldi Zsolt](https://github.com/zsfelfoldi) |
+| [Gustav-Simonsson](https://github.com/Gustav-Simonsson) |
+| [Piper Merriam](https://github.com/pipermerriam?tab=overview&from=2018-06-01&to=2018-06-30) |
+| [Bryant Eisenbach](https://github.com/fubuloubu) |
 
-## Types of signaling mechanisms:
+## Roles
 
-* Full-node counts
-* Mining hashpower
-* Token/coin staking/voting
-* Identity-based voting
-* Specialized TRC of active Ethereum Projects
-* Liquid Democracy modeled voting mechanism
+* PM?
 
-## EthAnalytics
+## Policies
 
-* [https://ethstats.net/](https://ethstats.net/)
-* [https://etherscan.io/](https://etherscan.io/)
-* [https://ethgasstation.info/](https://ethgasstation.info/) ****
+Governance framework: holacracy
 
-\*\*\*\*[https://docs.google.com/presentation/d/122w55AaoDqKOb\_2fI9u4f89\_oxca-cNJimizUC0sKnc/edit\#slide=id.g4de9bf8fbd\_0\_144](https://docs.google.com/presentation/d/122w55AaoDqKOb_2fI9u4f89_oxca-cNJimizUC0sKnc/edit#slide=id.g4de9bf8fbd_0_144)
+### Coordination
+
+Beweekly call
+
+
+
+## 
 
 
 
