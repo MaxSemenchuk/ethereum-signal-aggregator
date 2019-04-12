@@ -70,5 +70,5 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../../../.gitbook/assets/image%20%285%29.png)
+</table>![](../../.gitbook/assets/image%20%285%29.png)
 
