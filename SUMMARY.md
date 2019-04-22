@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Signaling Group / Strategy](README.md)
-* [Research](research.md)
-* [Operations](tacticals/README.md)
+* [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)
     * [August 14](tacticals/2018/august-17.md)
     * [Sep 6](tacticals/2018/sep-6.md)
@@ -22,8 +21,15 @@
     * [Dec 11 \(Retro\)](tacticals/2018/dec-11-retro.md)
     * [Dec 18](tacticals/2018/dec-18.md)
     * [Dec 24 \(Retro\)](tacticals/2018/dec-24-retro.md)
-  * [Jan 14](tacticals/jan-14.md)
-* [Outstanding Payments and Budget Feb2019](outstanding-payments-and-budget.md)
+  * [2019](tacticals/2019/README.md)
+    * [Jan 14](tacticals/2019/jan-14.md)
+    * [Outstanding Payments and Budget Feb2019](tacticals/2019/outstanding-payments-and-budget.md)
+* [About](about.md)
+
+## RESEARCH
+
+* [Improving Ethereum Governance with Signals Collection App](research-1/improving-ethereum-governance-with-signals-collection-app.md)
+* [Long Shots](research-1/long-shots.md)
 
 ## Tenna
 

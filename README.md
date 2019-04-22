@@ -8,10 +8,10 @@ Purpose: improve signaling in the networks with software
 
 * \(owner, frequency, existent solutions, fit\)
 * Interview Duncan Jameson?
-* Ethreum cat herders
+* Ethereum cat herders
 * Check out the other networks
 
-### Maintain the org
+### Maintain the product
 
 * Do regular calls / notes
 * Process the mentions – data processor
@@ -20,63 +20,10 @@ Purpose: improve signaling in the networks with software
 
 ### Funding
 
-* [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
-* [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
-* [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
-
-## Stakeholders \(/Ethereum - 1st\)
-
-1. Foundations
-2. Core devs
-3. Dapp devs
-4. Miners
-5. Users
-6. Nodes
-7. Exchanges
-8. Researchers
-
-### Foundations
-
-* EF
-* Parity
-* Status
-* Gnosis
-* Giveth
-* Aragon
-
-### Core devs
-
-| Vitalik Buterin |
-| :--- |
-| Vlad Zamfir |
-| Afri |
-| Cdetrio |
-| Jutta |
-| Greg |
-| Ligi |
-| Lane Rettig |
-| Nick Johnson |
-| Martin Holst Swende |
-| Daniel A Nagy |
-| Daniel Ellison |
-| Fredrick Harrysson |
-| Pawel Bylica |
-| M Kalinin |
-| Ben Edginton |
-| [Jeffrey Wilcke](https://github.com/obscuren) |
-| [Péter Szilágyi](https://github.com/karalabe) |
-| [Christoph Jentzsch](https://github.com/CJentzsch) |
-| [Felix Lange](https://github.com/fjl) |
-| [Taylor Gerring](https://github.com/tgerring) |
-| [Viktor Trón](https://github.com/zelig) |
-| [Felföldi Zsolt](https://github.com/zsfelfoldi) |
-| [Gustav-Simonsson](https://github.com/Gustav-Simonsson) |
-| [Piper Merriam](https://github.com/pipermerriam?tab=overview&from=2018-06-01&to=2018-06-30) |
-| [Bryant Eisenbach](https://github.com/fubuloubu) |
-
-## Roles
-
-* PM?
+* [Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5)
+  * [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
+  * [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
+  * [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
 
 ## Policies
 
@@ -86,9 +33,63 @@ Governance framework: holacracy
 
 Beweekly call
 
+## Roles
 
-
-## 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Role</th>
+      <th style="text-align:left">Assigned to</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Holding the org purpose, people and resource allocation</td>
+      <td style="text-align:left">Lead link</td>
+      <td style="text-align:left">Max?</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Communications with the users</td>
+      <td style="text-align:left">Communications</td>
+      <td style="text-align:left">James</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Managing the product to fit users needs</td>
+      <td style="text-align:left">Product Manager</td>
+      <td style="text-align:left">James</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Developing the product</td>
+      <td style="text-align:left">Engineer</td>
+      <td style="text-align:left">Bohdan</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">We have enough funds for the operations</td>
+      <td style="text-align:left">Finances</td>
+      <td style="text-align:left">James</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Meeting outcomes are captured and clear</p>
+        <p>Recognize when coordination is needed</p>
+      </td>
+      <td style="text-align:left">Secretary</td>
+      <td style="text-align:left">Max</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ensuring meetings have a clear process and it&apos;s and easy to participate</td>
+      <td
+      style="text-align:left">Facilitator</td>
+        <td style="text-align:left">Max</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Product is nice and usable</td>
+      <td style="text-align:left">Design</td>
+      <td style="text-align:left">Max</td>
+    </tr>
+  </tbody>
+</table>**Budget**: [https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing)
 
 
 
