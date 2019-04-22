@@ -18,6 +18,12 @@ Purpose: improve signaling in the networks with software
 * facilitate development – PM
 * Fin & strategy reporting / transparency
 
+### Funding
+
+* [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
+* [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
+* [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
+
 ## Stakeholders \(/Ethereum - 1st\)
 
 1. Foundations
