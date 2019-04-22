@@ -45,7 +45,7 @@ Beweekly call
     <tr>
       <td style="text-align:left">Holding the org purpose, people and resource allocation</td>
       <td style="text-align:left">Lead link</td>
-      <td style="text-align:left">Max?</td>
+      <td style="text-align:left">Max</td>
     </tr>
     <tr>
       <td style="text-align:left">Communications with the users</td>
@@ -61,11 +61,6 @@ Beweekly call
       <td style="text-align:left">Developing the product</td>
       <td style="text-align:left">Engineer</td>
       <td style="text-align:left">Bohdan</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">We have enough funds for the operations</td>
-      <td style="text-align:left">Finances</td>
-      <td style="text-align:left">James</td>
     </tr>
     <tr>
       <td style="text-align:left">
