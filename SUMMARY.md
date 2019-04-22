@@ -21,9 +21,10 @@
     * [Dec 11 \(Retro\)](tacticals/2018/dec-11-retro.md)
     * [Dec 18](tacticals/2018/dec-18.md)
     * [Dec 24 \(Retro\)](tacticals/2018/dec-24-retro.md)
+    * [Outstanding Payments and Budget Feb2019](tacticals/2018/outstanding-payments-and-budget.md)
   * [2019](tacticals/2019/README.md)
     * [Jan 14](tacticals/2019/jan-14.md)
-    * [Outstanding Payments and Budget Feb2019](tacticals/2019/outstanding-payments-and-budget.md)
+    * [Apr 22](tacticals/2019/apr-22.md)
 * [About](about.md)
 
 ## RESEARCH
