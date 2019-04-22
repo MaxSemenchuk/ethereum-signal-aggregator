@@ -1,6 +1,4 @@
-# Signaling Group / Strategy
-
-Purpose: improve signaling in the networks with software
+# EthSignals – Improving Ethereum Governance with Signalling Solutions
 
 ## Strategy
 

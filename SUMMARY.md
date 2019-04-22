@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Signaling Group / Strategy](README.md)
+* [EthSignals – Improving Ethereum Governance with Signalling Solutions](README.md)
 * [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)
     * [August 14](tacticals/2018/august-17.md)
@@ -32,16 +32,16 @@
 * [Improving Ethereum Governance with Signals Collection App](research-1/improving-ethereum-governance-with-signals-collection-app.md)
 * [Long Shots](research-1/long-shots.md)
 
-## Tenna
+## TennaGraph
 
-* [TennaGraph – Ethereum Signal Aggregator](tenna/tennagraph-ethereum-signal-aggregator.md)
-* [Roadmap & Specifications](tenna/specs/README.md)
-  * [Exporting Database to Github](tenna/specs/exporting-database-to-github.md)
-  * [Filter/Sorting Specifications](tenna/specs/filter-specifications.md)
-  * [Stakeholder Admin Module](tenna/specs/stakeholder-admin-module.md)
-  * [Voting](tenna/specs/voting.md)
-  * [TennaGraph 0.1](tenna/specs/tennagraph-0.1.md)
-  * [TennaGraph 0.3](tenna/specs/tennagraph-0.3.md)
-  * [TennaGraph 0.4](tenna/specs/tennagraph-0.4.md)
-  * [Further Development Ideas](tenna/specs/further-development-ideas.md)
+* [TennaGraph – Ethereum Signal Aggregator](tennagraph/tennagraph-ethereum-signal-aggregator.md)
+* [Roadmap & Specifications](tennagraph/specs/README.md)
+  * [Exporting Database to Github](tennagraph/specs/exporting-database-to-github.md)
+  * [Filter/Sorting Specifications](tennagraph/specs/filter-specifications.md)
+  * [Stakeholder Admin Module](tennagraph/specs/stakeholder-admin-module.md)
+  * [Voting](tennagraph/specs/voting.md)
+  * [TennaGraph 0.1](tennagraph/specs/tennagraph-0.1.md)
+  * [TennaGraph 0.3](tennagraph/specs/tennagraph-0.3.md)
+  * [TennaGraph 0.4](tennagraph/specs/tennagraph-0.4.md)
+  * [Further Development Ideas](tennagraph/specs/further-development-ideas.md)
 
