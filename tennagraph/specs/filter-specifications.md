@@ -65,7 +65,7 @@ The bot will continue to update the site as new EIPs are created and edited. In 
 
 coin.dance has a similar feature throughout their site. The workflow is as follows
 
-![Icon for &quot;Flag for Review&quot;](../../.gitbook/assets/image%20%287%29.png)
+![Icon for &quot;Flag for Review&quot;](../../.gitbook/assets/image%20%288%29.png)
 
 ![Hover over and see help text](../../.gitbook/assets/image%20%284%29.png)
 
