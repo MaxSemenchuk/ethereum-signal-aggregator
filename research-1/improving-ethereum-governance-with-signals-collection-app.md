@@ -28,3 +28,7 @@
 * [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
 * Futarchy / Prediction markets
 
+## Feedback
+
+So here are a few pieces of feedback: Under Ethereum Stakeholders there are a few groups missing. I list a lot of the stakeholders on this slide deck I made about governance on slide 6:[ https://docs.google.com/presentation/d/1eT6vM0TdTFtrD6EAH3FHp30ymn7XgyodlILlBH53ifc/edit?usp=sharing …](https://t.co/ME9mygqwPd) Under Need Hypotheses I would say that needing better signal collection is neccessary because the more signals we have the harder it is for an adversary to game all of the signals at once. It is also true that I could use a tool to quickly aggregate consensus around a topic.
+
