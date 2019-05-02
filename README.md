@@ -5,13 +5,14 @@
 Stakeholders and needs ~governance:
 
 * Foundations \(EF, Web3, EEA, Magicians\)
-  * Coordinate the efforts of network development
-    * Faster & Cheaper sentiment collection from stakeholders
+  * Faster & Cheaper _**consensus**_  on protocol changes from stakeholders
+    * More signal / sentiment collection sources \(harder to game\)
 * Developers \(Core, Clients, Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
   * More efficient/scalable protocol
-    * Influencing the roadmap
+    * Influence the roadmap \(?\)
 * Miners
-  * Increase ROI
+  * Increase returns on investments
+  * Minimize effort
 * Coin holders
   * Price growth
 * Users
