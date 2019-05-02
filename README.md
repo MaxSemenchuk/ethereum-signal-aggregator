@@ -2,6 +2,16 @@
 
 ## Strategy
 
+Stakeholders:
+
+* Foundations \(EF, Web3, EEA, Magicians\)
+* Client Devs / EIP Editors\*
+* Dapp/Infra devs \(Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
+* Miners
+* Users
+* Researchers
+* Team
+
 ### Research the problem/solutions hypothesis
 
 * \(owner, frequency, existent solutions, fit\)
