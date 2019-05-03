@@ -1,6 +1,45 @@
 # TennaGraph – Ethereum Signal Aggregator
 
-## **Vision**
+![](../.gitbook/assets/image%20%284%29.png)
+
+## **Problems**
+
+Easy/Fast/Cheap sentiment collection on the IEPs.
+
+## **Users**
+
+Ethereum stakeholders
+
+### **Early Adopters**
+
+* EF
+* Devs
+* Miners
+
+## Solution
+
+Enabling more signal options / perspectives
+
+* Full-node counts
+* Mining hashpower
+* Token/coin staking/voting
+* Identity-based voting
+* Specialized TRC of active Ethereum Projects
+* Liquid Democracy modeled voting mechanism
+
+### Key Metrics
+
+* Amount of votes
+* Github statistics
+* Ethereum Network statistics
+* Easy to find opinions from decisions makers on specific issue / proposals
+* Stats / info on Dapps
+* Info on Ethereum projects
+* Place to view / test the proposals \(EIPs\)
+* People trust the resource
+* A place where people can gauge what is going on in the community
+
+## **Freeform Vision**
 
 We need a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. The main point is to get a website that curates signals of high source of truth which can be used to get an overview of the overall community and its health. List of signals that are helpful and will help to pinpoint what the state of the community really is.
 
@@ -15,27 +54,7 @@ Coverage: Cover as many stakeholders with as wide a variety of signals as possib
 * Community: Encourage meaningful participation from the community to update and govern the website.
 * Historical Data Transparency: Leave a record of what happened to help researchers and historians.
 
-### Success criteria
-
-* Github statistics
-* Ethereum Network statistics
-* Easy to find opinions from decisions makers on specific issue / proposals
-* Stats / info on Dapps
-* Info on Ethereum projects
-* Place to view / test the proposals \(EIPs\)
-* People trust the resource
-* A place where people can gauge what is going on in the community
-
-## Types of signaling mechanisms:
-
-* Full-node counts
-* Mining hashpower
-* Token/coin staking/voting
-* Identity-based voting
-* Specialized TRC of active Ethereum Projects
-* Liquid Democracy modeled voting mechanism
-
-## Needs:
+### Needs
 
 * Place to view / test the proposals \(EIPs\)
   * Switch to proof of stake
@@ -44,4 +63,13 @@ Coverage: Cover as many stakeholders with as wide a variety of signals as possib
   * ...
 * More specific info on Ethereum projects
 * Understand what ppls opinions are about specific issues
+
+## Existent Solutions
+
+* [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)
+* Twitter polls and discussions
+* [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
+* Magicians community \(forum + meetings\)
+* [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
+* Futarchy / Prediction markets
 

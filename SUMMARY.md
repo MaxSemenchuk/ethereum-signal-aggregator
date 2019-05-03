@@ -28,14 +28,10 @@
     * [Tactical 06.05.2019](tacticals/2019/tactical-06.05.2019.md)
 * [About](about.md)
 
-## RESEARCH
-
-* [Improving Ethereum Governance with Signals Collection App](research-1/improving-ethereum-governance-with-signals-collection-app.md)
-* [Long Shots](research-1/long-shots.md)
-
 ## TennaGraph
 
 * [TennaGraph – Ethereum Signal Aggregator](tennagraph/tennagraph-ethereum-signal-aggregator.md)
+* [Other Solutions / Long Shots](tennagraph/long-shots.md)
 * [Roadmap & Specifications](tennagraph/specs/README.md)
   * [Exporting Database to Github](tennagraph/specs/exporting-database-to-github.md)
   * [Filter/Sorting Specifications](tennagraph/specs/filter-specifications.md)
