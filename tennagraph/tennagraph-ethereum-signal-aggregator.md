@@ -24,16 +24,19 @@ Ethereum stakeholders
 * Devs
 * Miners
 
+### Acquisition
+
+* Twitter
+* Magicians Forum
+* Chats \(incl. EthSignals chat\)
+
 ## Solution
 
-Enabling more signal options / perspectives
+App for creation/collection of signals for better Ethereum governance. Enabling more perspectives:
 
-* Full-node counts
-* Mining hashpower
-* Token/coin staking/voting
-* Identity-based voting
-* Specialized TRC of active Ethereum Projects
-* Liquid Democracy modeled voting mechanism
+* Coinvoting
+* Gas Voting
+* Rated influencer stances
 
 ### Key Metrics
 
