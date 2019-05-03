@@ -30,7 +30,7 @@ Ethereum stakeholders
 
 ## Solution
 
-App for creation/collection of signals for better Ethereum governance. Enabling more perspectives:
+App for creation/collection of signals for better Ethereum governance. Enabling more perspectives through:
 
 * Coinvoting
 * Gas Voting
