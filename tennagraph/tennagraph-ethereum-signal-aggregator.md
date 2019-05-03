@@ -4,7 +4,15 @@
 
 ## **Problems**
 
-Easy/Fast/Cheap sentiment collection on the IEPs.
+Easy/Fast/Cheap sentiment collection on the IEPs
+
+### Existent Solutions
+
+* [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)
+* Twitter polls and discussions
+* [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
+* Magicians community \(forum + meetings\)
+* [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
 
 ## **Users**
 
@@ -64,12 +72,5 @@ Coverage: Cover as many stakeholders with as wide a variety of signals as possib
 * More specific info on Ethereum projects
 * Understand what ppls opinions are about specific issues
 
-## Existent Solutions
-
-* [https://github.com/ethereum/EIPs](https://github.com/ethereum/EIPs)
-* Twitter polls and discussions
-* [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
-* Magicians community \(forum + meetings\)
-* [Ethereum Governance Survey](https://ethereum-magicians.org/t/ethereum-governance-survey-call-to-action/3137)
-* Futarchy / Prediction markets
+### 
 

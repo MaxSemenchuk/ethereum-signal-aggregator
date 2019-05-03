@@ -31,7 +31,6 @@
 ## TennaGraph
 
 * [TennaGraph – Ethereum Signal Aggregator](tennagraph/tennagraph-ethereum-signal-aggregator.md)
-* [Other Solutions / Long Shots](tennagraph/long-shots.md)
 * [Roadmap & Specifications](tennagraph/specs/README.md)
   * [Exporting Database to Github](tennagraph/specs/exporting-database-to-github.md)
   * [Filter/Sorting Specifications](tennagraph/specs/filter-specifications.md)
@@ -40,5 +39,5 @@
   * [TennaGraph 0.1](tennagraph/specs/tennagraph-0.1.md)
   * [TennaGraph 0.3](tennagraph/specs/tennagraph-0.3.md)
   * [TennaGraph 0.4](tennagraph/specs/tennagraph-0.4.md)
-  * [Further Development Ideas](tennagraph/specs/further-development-ideas.md)
+* [Other Solutions / Long Shots](tennagraph/long-shots.md)
 
