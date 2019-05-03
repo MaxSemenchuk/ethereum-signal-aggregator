@@ -25,6 +25,7 @@
   * [2019](tacticals/2019/README.md)
     * [Jan 14](tacticals/2019/jan-14.md)
     * [Apr 22](tacticals/2019/apr-22.md)
+    * [Tactical 06.05.2019](tacticals/2019/tactical-06.05.2019.md)
 * [About](about.md)
 
 ## RESEARCH
