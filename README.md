@@ -5,7 +5,7 @@
 Stakeholders and needs ~governance:
 
 * Foundations \(EF, Web3, EEA, Magicians\)
-  * Faster & Cheaper _**consensus**_ on protocol changes from stakeholders
+  * Faster & Cheaper consensus on protocol changes from stakeholders
     * More signal / sentiment collection sources \(harder to game\)?
 * Developers \(Core, Clients, Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
   * More efficient/scalable protocol
@@ -31,9 +31,8 @@ Stakeholders and needs ~governance:
 
 ### 2. Identify new Feature/Solution Hypotheses
 
-* Interview Hudson Jameson
-* Ethereum cat herders
-* Check out the other networks
+* Interview Hudson Jameson and other stakeholders
+* Check out the other networks needs / experience
 
 ### 3. Maintain team operations
 
