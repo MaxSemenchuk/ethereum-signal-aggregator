@@ -1,7 +1,5 @@
 # TennaGraph – Ethereum Signal Aggregator
 
-![](../.gitbook/assets/image%20%284%29.png)
-
 ## **Problems**
 
 Easy/Fast/Cheap sentiment collection on the IEPs
@@ -58,8 +56,7 @@ The end goal is a community-curated hub that clears out some of the noise around
 
 ### Core Guiding Principals
 
-Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
-
+* Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
 * Direct Representation: Little to no interpretation of data.
 * Integration over Recreation: Work with partners from the community where technologies already exist.
 * Community: Encourage meaningful participation from the community to update and govern the website.
