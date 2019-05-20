@@ -1,6 +1,7 @@
 # Table of contents
 
 * [EthSignals – Improving Ethereum Governance with Signalling Solutions](README.md)
+* [Reports](reports.md)
 * [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)
     * [August 14](tacticals/2018/august-17.md)
@@ -26,6 +27,7 @@
     * [Jan 14](tacticals/2019/jan-14.md)
     * [Apr 22](tacticals/2019/apr-22.md)
     * [Tactical 06.05.2019](tacticals/2019/tactical-06.05.2019.md)
+    * [Tactical 21.05.2019](tacticals/2019/tactical-21.05.2019.md)
 * [About](about.md)
 
 ## TennaGraph

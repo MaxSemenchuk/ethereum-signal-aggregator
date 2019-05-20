@@ -1,8 +1,26 @@
 # TennaGraph – Ethereum Signal Aggregator
 
-## **Problems**
+**Connect with us**
 
-Easy/Fast/Cheap sentiment collection on the IEPs
+* [Twitter](https://twitter.com/tennagraph)
+* [Telegram](https://t.me/tennagraph)
+* [Riot chat](https://riot.im/app/#/room/#tennagraph:matrix.org)
+* [EthMagicians group](https://ethereum-magicians.org/c/working-groups/signaling-ring)
+
+**Support us on** 
+
+* [Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5)
+* [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
+* [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
+* [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
+
+## **Problem**
+
+Easy/Fast/Cheap sentiment collection on controversial EIPs like
+
+* Switch to ProgPow
+* Lowering mining rewards in next hard fork
+* EIP-999, recovery of funds
 
 ### Existent Solutions
 
@@ -36,6 +54,16 @@ App for creation/collection of network sentiment for better Ethereum governance.
 * Gas Voting
 * Rated influencer stances
 
+Core Guiding Principals:
+
+* Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
+* Direct Representation: Little to no interpretation of data.
+* Integration over Recreation: Work with partners from the community where technologies already exist.
+* Community: Encourage meaningful participation from the community to update and govern the website.
+* Historical Data Transparency: Leave a record of what happened to help researchers and historians.
+
+The end goal is a community-curated hub that clears out some of the noise around key developments and decisions facing Ethereum
+
 ### Key Metrics
 
 * Amount of votes
@@ -47,30 +75,4 @@ App for creation/collection of network sentiment for better Ethereum governance.
 * Place to view / test the proposals \(EIPs\)
 * People trust the resource
 * A place where people can gauge what is going on in the community
-
-## **Freeform Vision**
-
-We need a website in the community that we can trust - a fairly high source of truth in terms of recognized people and their skill sets. The main point is to get a website that curates signals of high source of truth which can be used to get an overview of the overall community and its health. List of signals that are helpful and will help to pinpoint what the state of the community really is.
-
-The end goal is a community-curated hub that clears out some of the noise around key developments and decisions facing Ethereum
-
-### Core Guiding Principals
-
-* Coverage: Cover as many stakeholders with as wide a variety of signals as possible.
-* Direct Representation: Little to no interpretation of data.
-* Integration over Recreation: Work with partners from the community where technologies already exist.
-* Community: Encourage meaningful participation from the community to update and govern the website.
-* Historical Data Transparency: Leave a record of what happened to help researchers and historians.
-
-### Needs
-
-* Place to view / test the proposals \(EIPs\)
-  * Switch to proof of stake
-  * Lowering mining rewards in next hard fork
-  * EIP-999, recovery of funds
-  * ...
-* More specific info on Ethereum projects
-* Understand what ppls opinions are about specific issues
-
-### 
 
