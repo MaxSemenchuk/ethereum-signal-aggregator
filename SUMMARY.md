@@ -43,6 +43,7 @@
   * [TennaGraph 0.1](tennagraph/specs/tennagraph-0.1.md)
   * [TennaGraph 0.3](tennagraph/specs/tennagraph-0.3.md)
   * [TennaGraph 0.4](tennagraph/specs/tennagraph-0.4.md)
+  * [Data Analysis](tennagraph/specs/data-analysis.md)
 * [Other Solutions / Long Shots](tennagraph/long-shots.md)
 * [Try it out](https://tennagraph.com/)
 
