@@ -1,5 +1,9 @@
 # Reports
 
+## Transparency
+
+[CashFlow](https://docs.google.com/spreadsheets/d/1n9UIHlW3TGEeTQQcSWBYlVI8tmyb2a_tRFNDtRQygd4/edit?usp=sharing)
+
 ## April 2019
 
 * The community created several fundraising campaigns for us \([Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5), [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5), [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2) & [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)\) gathering ~$2-3k already
