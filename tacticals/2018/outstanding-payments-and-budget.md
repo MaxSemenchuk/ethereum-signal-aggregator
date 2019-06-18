@@ -2,5 +2,5 @@
 
 The final payment for nest doesn't fully cover our debts outstanding, so we agreed to pay out proportionally based on amount owed.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
