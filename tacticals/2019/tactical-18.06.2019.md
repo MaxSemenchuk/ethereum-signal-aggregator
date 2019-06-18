@@ -10,7 +10,7 @@ Product named Tennagraph
 
 * Tennagraph Community Telegram \(23 people\)
 * tennagraph Riot group \(35 people\)
-* Twiiter \(140 people\)
+* Twitter \(140 people\)
 * [https://gitter.im/ethereum/AllCoreDevs](https://gitter.im/ethereum/AllCoreDevs) \(764\)
 * [https://gitter.im/ethereum/governance](https://gitter.im/ethereum/governance) \(414\)
 * [https://ethereum-magicians.org/c/eips](https://ethereum-magicians.org/c/eips)
