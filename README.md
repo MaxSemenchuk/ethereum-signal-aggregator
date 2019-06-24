@@ -33,7 +33,7 @@ Products:
 ### Increase the volume of signaling
 
 * Create more recognition around signaling and tools
-  * Publish in Digital medias
+  * Publish in digital media
   * Talk on the conferences \(ethX, magicians\)
   * Podcasts \(e.g. Zero Knowledge\)
 * Create agreement with major dapps dev on signaling
