@@ -4,12 +4,10 @@
 
 Improve Ethereum Governance
 
-## Strategy
-
-### Stakeholders and needs ~governance:
+## Stakeholders and needs
 
 1. Foundations \(EF, Magicians\)
-   * Quickly aggregate consensus around a governance topics
+   * Quickly aggregate consensus around governance topics
 2. Developers \(Core, Clients, Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
    * More efficient \(scalable, functional, etc\) protocol
 3. Miners
@@ -23,19 +21,23 @@ Improve Ethereum Governance
    * Compensation
    * Recognition
 
-## Collect more signals
+![](https://lh3.googleusercontent.com/uD523pRDn6wxnb1tbBaH-p4skQ59OSLTLCJdJ_C1eUeynBuOUESKo1QPwtWRQXYXj4R1hDEDtIr7FeIejjSskL5QiIQLEy04CbnqcivczU11QtTYkzamWgeguAdReh7lUZsjHs1b)
+
+## Strategy
+
+### Collect more signals
 
 * Create more recognition around signaling and tools
 * Create agreement with major dapps dev on signaling
 * Local / Semi-manual signal collection on conferences
 
-## Develop Signal Collection Tools
+### Develop Signal Collection Tools
 
 * Support & maintain tenna
 * Add plugin for browsers
 * Connect more identity data
 
-## Increase Team Capacity
+### Increase Team Capacity
 
 * Collect more grants/donations \([Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5), [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5), [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2), [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)\)
   * Conduct regular reporting \(progress, financial\)
