@@ -28,6 +28,9 @@ Improve Ethereum Governance
 ### Collect more signals
 
 * Create more recognition around signaling and tools
+  * Twitter
+  * Talks
+  * Podcasts \(e.g. Zero Knowledge\)
 * Create agreement with major dapps dev on signaling
 * Local / Semi-manual signal collection on conferences
 
