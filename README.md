@@ -32,23 +32,19 @@ Products:
 
 ### Simplify the signal collection
 
-* Support & maintain tennagraph \(hub with all signaling data\)
-* List open topics for signaling
+* Support & maintain tennagraph \(hub with all signaling data\) – Bohdan
+* List open topics for signaling – Hudson?
 
 ### Increase the volume of signaling
 
-* Add a plugin for browsers
+* Add a plugin for browsers with github inject
 * Create more recognition around signaling and tools
-  * Publish releases in digital media
+  * Publish releases in digital media \(coindesk, eth website, github and satellite resources\)
   * Talk on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
+  * Promotional campaigns in Twitter on specific EIPs
 * Create agreement with major dapps dev on signaling
 
-### Identify the majority opinion
-
-* Local / Manual signal collection on conferences
-* Connect more identity data
-
-### Increase Team Capacity
+### Increase the Team Capacity
 
 * Collect more grants/donations
   * [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
@@ -57,6 +53,13 @@ Products:
   * [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
 * Conduct regular reporting \(progress, financial\)
 * Open up a working group around the topic
+
+### Identify the majority opinion
+
+* Local / Manual signal collection on conferences
+* Connect more identity data
+
+### 
 
 ## Policies
 
