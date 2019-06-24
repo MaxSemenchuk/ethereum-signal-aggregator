@@ -26,20 +26,20 @@ Products:
    * Compensation
    * Recognition
 
-![](https://lh3.googleusercontent.com/uD523pRDn6wxnb1tbBaH-p4skQ59OSLTLCJdJ_C1eUeynBuOUESKo1QPwtWRQXYXj4R1hDEDtIr7FeIejjSskL5QiIQLEy04CbnqcivczU11QtTYkzamWgeguAdReh7lUZsjHs1b)
+![Journey + Open Challenges](.gitbook/assets/image%20%2811%29.png)
 
 ## Strategy
 
-### Collect more signals
+### Increase the volume of signaling
 
 * Create more recognition around signaling and tools
   * Twitter
   * Talks
   * Podcasts \(e.g. Zero Knowledge\)
 * Create agreement with major dapps dev on signaling
-* Local / Semi-manual signal collection on conferences
+* Local / Semi-manual signal collection on conferences for hearing the majority
 
-### Develop Signal Collection Tools
+### Simplify the signal collection
 
 * Support & maintain tenna
 * Add plugin for browsers
@@ -59,7 +59,7 @@ We use holacracy framework
 
 ### Coordination
 
-Beweekly calls
+Be-weekly calls
 
 ### **Finance**
 
