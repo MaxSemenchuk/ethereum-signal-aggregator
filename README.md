@@ -4,7 +4,10 @@
 
 Improve Ethereum Governance.
 
-Products: [Tennagraph](tennagraph/tennagraph-ethereum-signal-aggregator.md) – signal aggregator
+Products:
+
+* [Tennagraph](tennagraph/tennagraph-ethereum-signal-aggregator.md) signal aggregator
+* [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) + [Telegram working group](https://t.me/tennagraph)
 
 ## Stakeholders and needs
 
