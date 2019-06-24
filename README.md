@@ -1,43 +1,45 @@
-# EthSignals – Improving Ethereum Governance with Signalling Solutions
+# EthSignals Manifesto
+
+## Purpose
+
+Improve Ethereum Governance
 
 ## Strategy
 
-Stakeholders and needs ~governance:
+### Stakeholders and needs ~governance:
 
-* Foundations \(EF, Web3, EEA, Magicians\)
-  * Faster & Cheaper consensus on protocol changes from stakeholders
-    * More signal / sentiment collection sources \(harder to game\)?
-* Developers \(Core, Clients, Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
-  * More efficient/scalable protocol
-    * Influence the roadmap \(?\)
-* Miners
-  * Increase returns on investments
-  * Minimize effort
-* Coin holders
-  * Price growth
-* Users
-  * Cheap transactions
-  * High level of Security
-* Team
-  * Compensation
-  * Recognition
+1. Foundations \(EF, Magicians\)
+   * Quickly aggregate consensus around a governance topics
+2. Developers \(Core, Clients, Consensys, Parity, Status, Gnosis, Giveth, Aragon, Metamask, MyCrypto, Infura, Exchanges\)
+   * More efficient \(scalable, functional, etc\) protocol
+3. Miners
+   * Increase returns on investments
+4. Coin holders
+   * Price growth
+5. Users
+   * Cheap transactions
+   * High level of Security
+6. Team
+   * Compensation
+   * Recognition
 
-### 1. Validate the Tennagraph Problem/Solution Fit with few key  EIPs
+## Collect more signals
 
-* Conduct Tech & Customer support
-* Implement key fixes and improvements
-* Engage stakeholders in the feedback
-  * Process the mentions
+* Create more recognition around signaling and tools
+* Create agreement with major dapps dev on signaling
+* Local / Semi-manual signal collection on conferences
 
-### 2. Identify new Feature/Solution Hypotheses
+## Develop Signal Collection Tools
 
-* Interview Hudson Jameson and other stakeholders
-* Check out the other networks needs / experience
+* Support & maintain tenna
+* Add plugin for browsers
+* Connect more identity data
 
-### 3. Maintain team operations
+## Increase Team Capacity
 
-* Support funding campaigns \([Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5), [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5), [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2), [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)\)
-* Conduct regular reporting \(progress, financial\)
+* Collect more grants/donations \([Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5), [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5), [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2), [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)\)
+  * Conduct regular reporting \(progress, financial\)
+* Open up a working group around the topic
 
 ## Policies
 
@@ -49,9 +51,9 @@ We use holacracy framework
 
 Beweekly calls
 
-### **Budget**
+### **Finance**
 
-\*\*\*\*[https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing)
+* [Cashflow](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing)
 
 ### Roles
 
@@ -72,7 +74,7 @@ Beweekly calls
     <tr>
       <td style="text-align:left">Communications with the users</td>
       <td style="text-align:left">Communications</td>
-      <td style="text-align:left">James / Anett</td>
+      <td style="text-align:left">Anett</td>
     </tr>
     <tr>
       <td style="text-align:left">Managing the product to fit users needs</td>

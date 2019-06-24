@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EthSignals – Improving Ethereum Governance with Signalling Solutions](README.md)
+* [EthSignals Manifesto](README.md)
 * [Reports](reports.md)
 * [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)
