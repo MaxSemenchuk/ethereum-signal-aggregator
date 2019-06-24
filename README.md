@@ -2,7 +2,9 @@
 
 ## Purpose
 
-Improve Ethereum Governance
+Improve Ethereum Governance.
+
+Products: [Tennagraph](tennagraph/tennagraph-ethereum-signal-aggregator.md) – signal aggregator
 
 ## Stakeholders and needs
 
