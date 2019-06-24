@@ -30,24 +30,23 @@ Products:
 
 ## Strategy
 
+### Simplify the signal collection
+
+* Support & maintain tennagraph \(hub with all signaling data\)
+* List open topics for signaling
+
 ### Increase the volume of signaling
 
+* Add a plugin for browsers
 * Create more recognition around signaling and tools
-  * Publish in digital media
-  * Talk on the conferences \(ethX, magicians\)
-  * Podcasts \(e.g. Zero Knowledge\)
+  * Publish releases in digital media
+  * Talk on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
 * Create agreement with major dapps dev on signaling
 
 ### Identify the majority opinion
 
 * Local / Manual signal collection on conferences
 * Connect more identity data
-
-### Simplify the signal collection
-
-* Support & maintain tenna
-* List open topics for signaling
-* Add plugin for browsers
 
 ### Increase Team Capacity
 
