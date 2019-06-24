@@ -37,12 +37,12 @@ Products:
 
 ### Increase the volume of signaling
 
-* Add a plugin for browsers with github inject
 * Create more recognition around signaling and tools
   * Publish releases in digital media \(coindesk, eth website, github and satellite resources\)
   * Talk on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Promotional campaigns in Twitter on specific EIPs
 * Create agreement with major dapps dev on signaling
+* Add a plugin for browsers with github inject
 
 ### Increase the Team Capacity
 
@@ -58,8 +58,6 @@ Products:
 
 * Local / Manual signal collection on conferences
 * Connect more identity data
-
-### 
 
 ## Policies
 
