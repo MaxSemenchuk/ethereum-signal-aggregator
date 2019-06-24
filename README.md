@@ -33,22 +33,30 @@ Products:
 ### Increase the volume of signaling
 
 * Create more recognition around signaling and tools
-  * Twitter
-  * Talks
+  * Publish in Digital medias
+  * Talk on the conferences \(ethX, magicians\)
   * Podcasts \(e.g. Zero Knowledge\)
 * Create agreement with major dapps dev on signaling
-* Local / Semi-manual signal collection on conferences for hearing the majority
+
+### Identify the majority opinion
+
+* Local / Manual signal collection on conferences
+* Connect more identity data
 
 ### Simplify the signal collection
 
 * Support & maintain tenna
+* List open topics for signaling
 * Add plugin for browsers
-* Connect more identity data
 
 ### Increase Team Capacity
 
-* Collect more grants/donations \([Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5), [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5), [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2), [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)\)
-  * Conduct regular reporting \(progress, financial\)
+* Collect more grants/donations
+  * [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
+  * [Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5)
+  * [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
+  * [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
+* Conduct regular reporting \(progress, financial\)
 * Open up a working group around the topic
 
 ## Policies
