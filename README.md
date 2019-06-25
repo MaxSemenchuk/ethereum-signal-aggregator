@@ -37,7 +37,7 @@ Products:
 
 ### Increase the volume of signaling
 
-* Create more recognition around signaling and tools – Communications
+* Create more awareness & recognition around signaling and tools – Communications
   * Publish releases in digital media \(coindesk, eth website, github and satellite resources\)
   * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Promotional campaigns in Twitter on specific EIPs
@@ -91,7 +91,7 @@ Be-weekly calls
       <td style="text-align:left">Max</td>
     </tr>
     <tr>
-      <td style="text-align:left">Communications with the users</td>
+      <td style="text-align:left">Communicate more awareness and recognition</td>
       <td style="text-align:left">Communications</td>
       <td style="text-align:left">Anett</td>
     </tr>
