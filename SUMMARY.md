@@ -35,7 +35,7 @@
 
 ## TennaGraph
 
-* [TennaGraph – Ethereum Signal Aggregator](tennagraph/tennagraph-ethereum-signal-aggregator.md)
+* [TennaGraph – Ethereum Signal Aggregator](tennagraph/tennagraph-ethereum-signal-aggregator.md)
 * [Roadmap & Specifications](tennagraph/specs/README.md)
   * [Exporting Database to Github](tennagraph/specs/exporting-database-to-github.md)
   * [Filter/Sorting Specifications](tennagraph/specs/filter-specifications.md)

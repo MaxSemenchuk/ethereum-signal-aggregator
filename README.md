@@ -32,16 +32,16 @@ Products:
 
 ### Simplify the signal collection
 
-* Support & maintain tennagraph \(hub with all signaling data\) – Bohdan
+* Support & maintain tennagraph \(hub with all signaling data\) – Engineer
 * List open topics for signaling – Hudson?
 
 ### Increase the volume of signaling
 
-* Create more recognition around signaling and tools
+* Create more recognition around signaling and tools – Communications
   * Publish releases in digital media \(coindesk, eth website, github and satellite resources\)
-  * Talk on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
+  * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Promotional campaigns in Twitter on specific EIPs
-* Create agreement with major dapps dev on signaling
+* Create agreement with major dapps dev on signaling – Engineer
 * Add a plugin for browsers with github inject
 
 ### Increase the Team Capacity
@@ -52,7 +52,6 @@ Products:
   * [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
   * [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
   * Grant Applicatons - Moloch, EF, etc.
-  
 * Conduct regular reporting \(progress, financial\)
 * Open up a working group around the topic
 
@@ -95,7 +94,7 @@ Be-weekly calls
       <td style="text-align:left">Communications with the users</td>
       <td style="text-align:left">Communications</td>
       <td style="text-align:left">Anett</td>
-    </tr>  
+    </tr>
     <tr>
       <td style="text-align:left">Fundraising</td>
       <td style="text-align:left">Head Shiller</td>
