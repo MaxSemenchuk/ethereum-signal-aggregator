@@ -38,7 +38,7 @@ Products:
 ### Increase the volume of signaling
 
 * Create more awareness & recognition around signaling and tools – Communications
-  * Publish releases in digital media \(coindesk, eth website, github and satellite resources\)
+  * Publish overview/links in relevant media \(coindesk, eth website, [github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
   * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Promotional campaigns in Twitter on specific EIPs
 * Create agreement with major dapps dev on signaling – Engineer
