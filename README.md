@@ -50,7 +50,7 @@ Products:
 ### Increase the Team Capacity
 
 * Raise $5k / mo. budget for next 6 months – Fundraiser
-  * Moloch
+  * Create Moloch request
   * Promote Gitcoin
   * ECF & EF
   * Aragon
