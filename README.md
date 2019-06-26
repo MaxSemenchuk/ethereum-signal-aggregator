@@ -56,6 +56,11 @@ Products:
   * Aragon
 * Conduct regular reporting \(progress, financial\)
 * Open up a working group around the topic
+* Setup advisor agreements+process
+  * Hudson
+  * EthMagicians
+  * Gitcoin
+  * Griff
 
 ## Policies
 
