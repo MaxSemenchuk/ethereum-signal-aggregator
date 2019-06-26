@@ -34,6 +34,9 @@ Products:
 
 * Support & maintain tennagraph \(hub with all signaling data\) – Engineer
 * List open topics for signaling – Hudson?
+* Separate the influencers & majority opinion
+  * Local / Manual signal collection on conferences
+  * Connect more identity data
 
 ### Increase the volume of signaling
 
@@ -46,19 +49,13 @@ Products:
 
 ### Increase the Team Capacity
 
-* Collect more grants/donations
-  * [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2)
-  * [Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5)
-  * [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5)
-  * [WeTrust](https://cryptounlocked.wetrust.io/tennagraph)
-  * Grant Applicatons - Moloch, EF, etc.
+* Raise $5k / mo. budget for next 6 months
+  * Moloch
+  * Promote Gitcoin
+  * ECF & EF
+  * Aragon
 * Conduct regular reporting \(progress, financial\)
 * Open up a working group around the topic
-
-### Identify the majority opinion
-
-* Local / Manual signal collection on conferences
-* Connect more identity data
 
 ## Policies
 
