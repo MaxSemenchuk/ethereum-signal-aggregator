@@ -41,8 +41,7 @@ Products:
 
 ### Simplify the signal collection
 
-* Support & maintain tennagraph \(hub with all signaling data\) – Engineer
-* List open topics for signaling – Hudson?
+* List the open topics for signaling – Hudson?
 * Separate the influencers & majority opinion
   * Local / Manual signal collection on conferences
   * Connect more identity data
