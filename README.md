@@ -30,14 +30,6 @@ Products:
 
 ## Strategy
 
-### Simplify the signal collection
-
-* Support & maintain tennagraph \(hub with all signaling data\) – Engineer
-* List open topics for signaling – Hudson?
-* Separate the influencers & majority opinion
-  * Local / Manual signal collection on conferences
-  * Connect more identity data
-
 ### Increase the volume of signaling
 
 * Create more awareness & recognition around signaling and tools – Communications
@@ -47,9 +39,17 @@ Products:
 * Create agreement with major dapps dev on signaling – Engineer
 * Add a plugin for browsers with github inject
 
+### Simplify the signal collection
+
+* Support & maintain tennagraph \(hub with all signaling data\) – Engineer
+* List open topics for signaling – Hudson?
+* Separate the influencers & majority opinion
+  * Local / Manual signal collection on conferences
+  * Connect more identity data
+
 ### Increase the Team Capacity
 
-* Raise $5k / mo. budget for next 6 months
+* Raise $5k / mo. budget for next 6 months – Fundraiser
   * Moloch
   * Promote Gitcoin
   * ECF & EF
@@ -60,21 +60,14 @@ Products:
   * Hudson
   * EthMagicians
   * Gitcoin
+  * Aragon
   * Griff
 
 ## Policies
 
-### Governance
-
-We use holacracy framework
-
-### Coordination
-
-Be-weekly calls
-
-### **Finance**
-
-* [Cashflow](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing)
+* Governance: We use holacracy framework
+* Coordination: Be-weekly calls
+* Finance: ****[Cashflow](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing) is open
 
 ### Roles
 
@@ -101,11 +94,6 @@ Be-weekly calls
       <td style="text-align:left">Fundraising</td>
       <td style="text-align:left">Head Shiller</td>
       <td style="text-align:left">Anett</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Managing the product to fit users needs</td>
-      <td style="text-align:left">Product Manager</td>
-      <td style="text-align:left">Max</td>
     </tr>
     <tr>
       <td style="text-align:left">Developing the product</td>
