@@ -57,7 +57,7 @@ Products:
 * Open up a working group around the topic
 * Setup advisor agreements+process
   * Hudson
-  * EthMagicians
+  * EthMagicians \(Jamie, Boris?\)
   * Gitcoin
   * Aragon
   * Griff
