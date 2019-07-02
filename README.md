@@ -32,12 +32,20 @@ Products:
 
 ### Increase the volume of signaling
 
+* Start collecting votes on [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)
 * Create more awareness & recognition around signaling and tools – Communications
   * Publish overview/links in relevant media \(coindesk, eth website, [github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
   * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Promotional campaigns in Twitter on specific EIPs
 * Create agreement with major dapps dev on signaling – Engineer
 * Add a plugin for browsers with github inject
+* Cleaner website with more info 
+  * Add mission on a web - inspo [https://coin.dance/](https://coin.dance/)
+  * Add roadmap - with potentially numbers that we want to reach out - get
+  * Add “about” 
+  * Add FAQs
+  * Short description of EIP - but you can click on it and see it full afterwards 
+  * Add socials - twitter & telegram
 
 ### Simplify the signal collection
 
