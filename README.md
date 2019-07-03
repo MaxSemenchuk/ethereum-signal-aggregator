@@ -59,7 +59,7 @@ Products:
 ### Increase the Team Capacity
 
 * Raise $5k / mo. budget for next 6 months – Fundraiser
-  * Create Moloch request \(Ameen, Griff, Jamie P, Yalda, Kevin, James Hundson, Cassandra - need 4 votes\)
+  * Create Moloch request \(Ameen, Griff, Jamie P, Yalda, Kevin, James Hundson, Cassandra, Eric Conner EIP-1559 - need 4 votes\)
   * Promote Gitcoin
   * ECF & EF
   * Aragon
