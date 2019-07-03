@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Improve Ethereum Governance.
+Improve Ethereum Governance
 
 Products:
 
@@ -32,13 +32,14 @@ Products:
 
 ### Increase the volume of signaling
 
-* Start collecting votes on [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)
 * Create more awareness & recognition around signaling and tools – Communications
+  * Promotional campaigns in Twitter on specific EIPs \(e.g. [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)\)
+  * Attract the EIP writer to promote it
   * Publish overview/links in relevant media \(coindesk, eth website, [github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
   * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
-  * Promotional campaigns in Twitter on specific EIPs
-* Create agreement with major dapps dev on signaling – Engineer
+  * Allow setting bounties from EF
 * Add a plugin for browsers with github inject
+* Attracting advisors, get help with making the standards
 * Cleaner website with more info 
   * Add mission on a web - inspo [https://coin.dance/](https://coin.dance/)
   * Add roadmap - with potentially numbers that we want to reach out - get
@@ -46,6 +47,7 @@ Products:
   * Add FAQs
   * Short description of EIP - but you can click on it and see it full afterwards 
   * Add socials - twitter & telegram
+* Create agreement with major dapps dev on signaling – Engineer
 
 ### Simplify the signal collection
 
@@ -57,7 +59,7 @@ Products:
 ### Increase the Team Capacity
 
 * Raise $5k / mo. budget for next 6 months – Fundraiser
-  * Create Moloch request
+  * Create Moloch request \(Ameen, Griff, Jamie P, Yalda, Kevin, James Hundson, Cassandra - need 4 votes\)
   * Promote Gitcoin
   * ECF & EF
   * Aragon
