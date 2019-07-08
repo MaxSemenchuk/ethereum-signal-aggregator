@@ -71,6 +71,7 @@ Products:
   * Gitcoin
   * Aragon
   * Griff
+  * Anna
 
 ## Policies
 
