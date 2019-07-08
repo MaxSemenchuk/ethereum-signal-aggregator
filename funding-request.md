@@ -58,5 +58,5 @@ Has experience in marketing, community building, research. In recent months she 
 
 * Griff Green, Giveth
 * Duncan Jameson, Ethereum Foundation
-* Anna Rose, ZeroKnowledge 
+* \(Anna Rose, ZeroKnowledge\)
 
