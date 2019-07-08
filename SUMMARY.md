@@ -1,6 +1,7 @@
 # Table of contents
 
 * [EthSignals Manifesto](README.md)
+* [MGP-X: $15k for Ethereum Signaling](funding-request.md)
 * [Reports](reports.md)
 * [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)
