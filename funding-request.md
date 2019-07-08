@@ -6,9 +6,7 @@ EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolikova\) will work on
 
 ### Background
 
-* History
-* Prev Funding
-* Advisors
+...
 
 ### Scope of Work
 
@@ -37,6 +35,8 @@ Preliminary monthly budget allocation:
 * $1k Max
 * $2k Bohdan
 * $1k travel costs
+
+### Previous Contributions
 
 ### Qualifications
 
