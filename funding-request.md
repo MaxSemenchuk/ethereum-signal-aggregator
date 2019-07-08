@@ -1,13 +1,16 @@
-# MGP-X: $15k for Ethereum Signaling
+# MGP-X: $15k for EthSignals
 
 ### The ask
 
-EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolíková\) will work on improving of Ethereum governance through increasing the volume of signaling around EIPs and general governance stances.
+EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolíková\) are requesting funds on improving of Ethereum governance through increasing the volume of signaling around EIPs and general governance stances. This is done through the app called [Tennagraph](https://tennagraph.com/) that is the hub for collecting the community sentiment \(support or opposition\) to specific proposals. It provides perspectives through:
+
+* Coinvoting
+* Gas Voting
+* Rated influencer stances
 
 ### Background
 
-* History
-* Prev Funding
+* * Prev Funding
 * Advisors
 
 ### Scope of Work
