@@ -10,7 +10,8 @@ EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolíková\) are reques
 
 ### Background
 
-* * Prev Funding
+* History
+* Prev Funding
 * Advisors
 
 ### Scope of Work

@@ -32,22 +32,24 @@ Products:
 
 ### Increase the volume of signaling
 
-* Create more awareness & recognition around signaling and tools – Communications
-  * Promotional campaigns in Twitter on specific EIPs \(e.g. [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)\)
-  * Attract the EIP writer to promote it
-  * Publish overview/links in relevant media \(coindesk, eth website, [github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
-  * Arrange talks on the conferences \(ethX, magicians\) & podcasts \(e.g. Zero Knowledge\)
-  * Allow setting bounties from EF
-* Add a plugin for browsers with github inject
-* Attracting advisors, get help with making the standards
-* Cleaner website with more info 
-  * Add mission on a web - inspo [https://coin.dance/](https://coin.dance/)
+* Creating more awareness about most important EIPs, importance of signaling and Tennagraph as the tools
+  * Doing promotional campaigns in Twitter on specific EIPs \(e.g. [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)\)
+  * Manual verification and attaching influencers stances to Tenna
+  * Engaging the EIP writers in signaling promotion
+  * Including overview/links in relevant media \(coindesk, eth website, [eth github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
+  * Arrange talks on the conferences \(e.g. web3, ethBerlin, magicians\) & podcasts \(e.g. Zero Knowledge\)
+  * Allow setting signal collection bounties from EF and other parties
+  * Attract advisors into popularization \(tweets why they advise us etc\)
+  * Create an agreement with major dapps dev on signaling
+  * Making public report on the work
+* Add a plugin for Chrome to inject voting mechanics in EIP github interface
+* Make cleaner website with more info 
+  * Add the mission statement \([example](https://coin.dance/)\)
   * Add roadmap - with potentially numbers that we want to reach out - get
   * Add “about” 
   * Add FAQs
   * Short description of EIP - but you can click on it and see it full afterwards 
   * Add socials - twitter & telegram
-* Create agreement with major dapps dev on signaling – Engineer
 
 ### Simplify the signal collection
 
