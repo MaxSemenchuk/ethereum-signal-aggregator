@@ -2,12 +2,17 @@
 
 ## Purpose
 
-Improve Ethereum Governance
+### Background
 
-Products:
+The project started from the [Phil Lucsok and Griff Green presentation](https://drive.google.com/file/d/1bQiSw8UveVT_R2f3Yhla61ad6FRefptf/view) on July 2018. The working group was formed shortly. The project was funded on [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5) by Griff Green, then with the [Aragon Nest grant](https://github.com/aragon/nest/pull/66) and later on [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2) and [WeTrust](https://cryptounlocked.wetrust.io/tennagraph). Collectively over $43k was attracted for the development and community work. Currently the funds are managed through [Aragon DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5). Info on the team:
 
-* [Tennagraph](tennagraph/tennagraph-ethereum-signal-aggregator.md) signal aggregator
-* [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) + [Telegram working group](https://t.me/tennagraph)
+* **Max Semenchuk.** Entrepreneur, Product Manager, UX Designer. Partner at [DGOV Foundation](https://dgov.foundation/), [4IRE labs](https://4irelabs.com/),  \#Decentralization, \#Holacracy, \#Lean, \#DAO. \([Twitter](https://twitter.com/maxsemenchuk)\)
+* **Bohdan Malkevych.** Full Stack Web \(python, vue.js, nuxt\), Blockchain \(ethereum, solidity\) & iOS Engineer. \([Linkedin](https://www.linkedin.com/in/bohdan-malkevych-19357bb1/)\)
+* **Anett Rolikova.** Has experience in marketing, community building, research. In recent months she has organized numerous Ethereum meetups, helped with organising eventsand has had a positive impact on the community.  \([Twitter](https://twitter.com/AnettRolikova)\)
+
+The working group is advised by Hudson Jameson \(Ethereum Foundation\), Griff Green \(Giveth\) and Anna Rose \(Zero Knowledge\). The roles, strategy, reports and meeting notes can be found the in [the ethsignals wiki](https://ethsignals.gitbook.io/wiki/).
+
+Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) & [Telegram working group](https://t.me/tennagraph)
 
 ## Stakeholders and needs
 
@@ -105,8 +110,8 @@ Products:
     </tr>
     <tr>
       <td style="text-align:left">Fundraising</td>
-      <td style="text-align:left">Head Shiller</td>
-      <td style="text-align:left">Anett</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Max</td>
     </tr>
     <tr>
       <td style="text-align:left">Developing the product</td>

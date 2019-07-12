@@ -18,6 +18,8 @@ The project started from the [Phil Lucsok and Griff Green presentation](https://
 
 The working group is advised by Hudson Jameson \(Ethereum Foundation\), Griff Green \(Giveth\) and Anna Rose \(Zero Knowledge\). The roles, strategy, reports and meeting notes can be found the in [the ethsignals wiki](https://ethsignals.gitbook.io/wiki/).
 
+Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) & [Telegram working group](https://t.me/tennagraph)
+
 ### Scope of Work
 
 Our task is to help Ethereum Core devs, Ethereum Magicians and Ethereum Foundation to collect and analyze signals around the governance by
