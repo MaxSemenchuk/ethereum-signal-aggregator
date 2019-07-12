@@ -50,6 +50,7 @@ Products:
   * Add FAQs
   * Short description of EIP - but you can click on it and see it full afterwards 
   * Add socials - twitter & telegram
+* Make educational media format \(like video\) with the EIP overview
 
 ### Simplify the signal collection
 
