@@ -1,6 +1,6 @@
 # MGP-X: $15k for EthSignals
 
-### The ask
+## The ask
 
 EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolíková\) are requesting funds on improving of Ethereum governance through increasing the volume of signaling around EIPs and general governance stances. This is done through the app called [Tennagraph](https://tennagraph.com/) that is the hub for collecting the community sentiment \(support or opposition\) to specific proposals. It provides perspectives through:
 
@@ -8,7 +8,7 @@ EthSignals Team \(Max Semenchuk, Bohdan Malkebych, Anett Rolíková\) are reques
 * Gas Voting
 * Rated influencer stances
 
-### Background
+## Background
 
 The project started from the [Phil Lucsok and Griff Green presentation](https://drive.google.com/file/d/1bQiSw8UveVT_R2f3Yhla61ad6FRefptf/view) on July 2018. The working group was formed shortly. The project was funded on [Giveth](https://beta.giveth.io/campaigns/5b51bdbdf8ba4732631989f5) by Griff Green, then with the [Aragon Nest grant](https://github.com/aragon/nest/pull/66) and later on [GitCoin](https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2) and [WeTrust](https://cryptounlocked.wetrust.io/tennagraph). Collectively over $43k was attracted for the development and community work. Currently, we have no legal entity and the funds are managed through the [EthSignals DAO](https://mainnet.aragon.org/#/tenna.aragonid.eth/0x77886861218199f5d98c86f4e707a071cbb82ea5). Info on the team:
 
@@ -20,11 +20,14 @@ The working group is advised by Hudson Jameson \(Ethereum Foundation\), Griff Gr
 
 Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) & [Telegram working group](https://t.me/tennagraph)
 
-### Scope of Work
+## Scope of Work
 
 Our task is to help Ethereum Core devs, Ethereum Magicians and Ethereum Foundation to collect and analyze signals around the governance by
 
 * Add a plugin for Chrome to[ inject voting mechanics in EIP github interface](https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/Tennagraph?node-id=896%3A1239)
+
+![](.gitbook/assets/frame-12.jpg)
+
 * Make cleaner website with more info 
   * Add the mission statement \([example](https://coin.dance/)\)
   * Add roadmap - with potentially numbers that we want to reach out - get
@@ -43,15 +46,14 @@ Our task is to help Ethereum Core devs, Ethereum Magicians and Ethereum Foundati
   * Create an agreement with major dapps dev on signaling
   * Making public report on the work
 
+## Preliminary monthly budget allocation
 
-### Preliminary monthly budget allocation
-
-* $1500/mo. – full-stack engineer \(Bohdan\)
-* $500/mo. product management & design \(Max\)
-* $2000/mo. – communications managers \(Anett, Max\)
+* $1500/mo. – full-stack engineer \(Bohdan\)
+* $500/mo. product management & design \(Max\)
+* $2000/mo. – communications managers \(Anett, Max\)
 * $800/mo. – travel costs & tools
 
-Total: $9600 for 2 months to prove our work, after 6 weeks we will propose a follow up grant. 
+Total: $9600 for 2 months to prove our work, after 6 weeks we will propose a follow up grant.
 
 Project Coordinator: Max Semenchuk \(email: max.semenchuk@gmail.com, telegram: maxsemenchuk\)
 
