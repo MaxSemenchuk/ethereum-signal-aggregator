@@ -26,7 +26,7 @@ Our task is to help Ethereum Core devs, Ethereum Magicians and Ethereum Foundati
 
 * Add a plugin for Chrome to[ inject voting mechanics in EIP github interface](https://www.figma.com/file/X4cetH8WVlTP3w0XmbgsEwFN/Tennagraph?node-id=896%3A1239)
 
-![](.gitbook/assets/frame-12.jpg)
+![](.gitbook/assets/frame-13.jpg)
 
 * Make cleaner website with more info 
   * Add the mission statement \([example](https://coin.dance/)\)
