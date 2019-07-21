@@ -1,7 +1,7 @@
 # Table of contents
 
 * [EthSignals Manifesto](README.md)
-* [MGP-X: $9600 for EthSignals](funding-request.md)
+* [MGP-14: $9600 for EthSignals](mgp-14.md)
 * [Reports](reports.md)
 * [Tacticals](tacticals/README.md)
   * [2018](tacticals/2018/README.md)

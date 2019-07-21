@@ -1,4 +1,4 @@
-# MGP-X: $9600 for EthSignals
+# MGP-14: $9600 for EthSignals
 
 ## The ask
 
