@@ -10,7 +10,7 @@ The project was inspired by the [Phil Lucsok and Griff Green presentation](https
 * **Bohdan Malkevych.** Full Stack Web \(python, vue.js, nuxt\), Blockchain \(ethereum, solidity\) & iOS Engineer. \([Linkedin](https://www.linkedin.com/in/bohdan-malkevych-19357bb1/)\)
 * **Anett Rolikova.** Has experience in marketing, community building, research. In recent months she has organized numerous Ethereum meetups, helped with organising eventsand has had a positive impact on the community.  \([Twitter](https://twitter.com/AnettRolikova)\)
 
-The working group is advised by Hudson Jameson \(Ethereum Foundation\), Griff Green \(Giveth\) and Anna Rose \(Zero Knowledge\). The roles, strategy, reports and meeting notes can be found the in [the ethsignals wiki](https://ethsignals.gitbook.io/wiki/).
+The working group is advised by Hudson Jameson \(Ethereum Foundation\), Griff Green \(Giveth\) and Anna Rose \(Zero Knowledge\). The roles, strategy, reports and meeting notes can be found in [the ethsignals wiki](https://ethsignals.gitbook.io/wiki/).
 
 Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/signaling-ring) & [Telegram working group](https://t.me/tennagraph)
 
