@@ -66,7 +66,7 @@ Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/sign
 
 ### Increase the Team Capacity
 
-* Raise $5k / mo. budget for next 6 months – Fundraiser
+* Raise $5k / mo. budget for next 6 months – Fundraiser
   * Create Moloch request \(Ameen, Griff, Jamie P, Yalda, Kevin, Hudson, Cassandra, Eric Conner EIP-1559 - need 4 votes\)
   * Promote Gitcoin
   * ECF & EF
@@ -85,7 +85,7 @@ Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/sign
 
 * Governance: We use holacracy framework
 * Coordination: Be-weekly calls
-* Finance: ****[Cashflow](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing) is open
+* Finance: _\*\*_[Cashflow](https://docs.google.com/spreadsheets/d/1rivtjkYQXm2M0ZxqW-ISe3pkRyKpl8frFsAEertS8S0/edit?usp=sharing) is open
 
 ### Roles
 
