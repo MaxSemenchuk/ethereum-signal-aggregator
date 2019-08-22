@@ -41,7 +41,7 @@ Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/sign
   * Doing promotional campaigns in Twitter on specific EIPs \(e.g. [EIP-1559](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/8)\)
   * Manual verification and attaching influencers stances to Tenna
   * Engaging the EIP writers in signaling promotion
-  * Including overview/links in relevant media \(coindesk, eth website, [eth github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
+  * Including overview/links in relevant media \(coindesk, [eth website](https://www.ethereum.org/), [eth github](https://github.com/ethereum/wiki/wiki/Governance-compendium) and satellite resources\)
   * Arrange talks on the conferences \(e.g. web3, ethBerlin, magicians\) & podcasts \(e.g. Zero Knowledge\)
   * Allow setting signal collection bounties from EF and other parties
   * Attract advisors into popularization \(tweets why they advise us etc\)
