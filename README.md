@@ -31,7 +31,11 @@ Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/sign
    * Compensation
    * Recognition
 
-![Journey + Open Challenges](.gitbook/assets/image%20%2811%29.png)
+![Journey + Open Challenges](.gitbook/assets/image%20%2812%29.png)
+
+![https://medium.com/coinmonks/ethereum-governance-survey-results-c67c11695f2a](.gitbook/assets/image%20%289%29.png)
+
+
 
 ## Strategy
 

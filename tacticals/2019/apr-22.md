@@ -9,7 +9,7 @@
 
 James proposed:
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 Max: distribute like that, forget all debt, use all further funds for the development
 
