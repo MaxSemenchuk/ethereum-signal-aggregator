@@ -6,6 +6,8 @@ Bohdan: hackathon went good, all tasks were done in time, talked with Vitalik. W
 
 Bogdan: could have attracted Alex for snarks. DappCon had bad wifi, several presentations failed. EthBerlin was great – was a great experience, free food and drinks, nice atmosphere. Best project – soulty \(EVM in EVM\) and pass saving app. In the rules there was a point to build only on new projects, that's maybe why we missed the prize.
 
+{% embed url="https://www.youtube.com/watch?v=6vNYSIrRpAE" %}
+
 ## Max / 4ireside chat + Slock.it
 
 Monthly call
