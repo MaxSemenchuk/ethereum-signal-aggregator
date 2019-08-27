@@ -36,6 +36,7 @@
     * [Tactical 16.07.2019](tacticals/2019/tactical-16.07.2019.md)
     * [Tactical 30.07.2019](tacticals/2019/tactical-30.07.2019.md)
     * [Tactical 13.08.2019](tacticals/2019/tactical-13.08.2019.md)
+    * [Tactical 27.08.2019](tacticals/2019/tactical-27.08.2019.md)
 * [About](about.md)
 
 ## TennaGraph
