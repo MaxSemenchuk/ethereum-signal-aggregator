@@ -4,7 +4,7 @@
 
 Bohdan: hackathon went good, all tasks were done in time, talked with Vitalik. Was raised the point the whales can have a substantial effect. Remove exchanges as well. Had 2 tables: 1st table was interested and gave some advice \(like with tokens\). The 2nd no so much. Didn't add the slide with the stats sources. 
 
-Bogdan: could have attracted Alex for snarks. DappCon had bad wifi, several presentations failed. EthBerlin was great – was a great experience, free food and drinks, nice atmosphere. Best project – soulty \(EVM in EVM\) and pass saving app. In the rules there was a point to build only on new projects, that's maybe why we missed the prize.
+Bogdan: could have attracted Alex for snarks. DappCon had bad wifi, several presentations failed. EthBerlin was great – was a great experience, free food and drinks, nice atmosphere. Best project – saltty \(EVM in EVM\) and pass saving app. In the rules there was a point to build only on new projects, that's maybe why we missed the prize.
 
 {% embed url="https://www.youtube.com/watch?v=6vNYSIrRpAE" %}
 
