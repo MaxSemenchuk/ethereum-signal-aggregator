@@ -39,6 +39,12 @@ Find us on [Magicians Ring](https://ethereum-magicians.org/c/working-groups/sign
 
 ## Strategy
 
+### Identify specific stakeholder group stances
+
+Based on the feedback from [Jamie](https://ethereum-magicians.org/t/what-are-the-most-important-topic-to-get-the-community-feedback/3615) and Vitalik.
+
+Can join metacartel to gather the app dev stances
+
 ### Increase the volume of signaling
 
 * Creating more awareness about most important EIPs, importance of signaling and Tennagraph as the tools
